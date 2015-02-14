@@ -41,8 +41,9 @@
                                     
                                        <div id="default"></div>
                                         <script>
-                                            $.fn.raty.defaults.path = '../lib/images';
                                             $(function() {
+                                            $.fn.raty.defaults.path = 'lib/images';
+
                                               $('#default').raty({ score: 2 });
                                             });
                                         </script> 
