@@ -178,6 +178,7 @@
 <script src="scripts/typeahead.bundle.js"></script>
 <script src="scripts/sly.min.js"></script>
 <script src="scripts/horizontal.js"></script>
+<script src="scripts/jquery.raty.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
     var substringMatcher = function(strs) {

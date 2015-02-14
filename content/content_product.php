@@ -33,29 +33,40 @@
                                    </a>
                                 </div>   
                                 <div class="pi-col-md-8">
+                                      
+                                       <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                                           Sobre Nosotros
+                                       </h3>
+                                    
+                                    
+                                       <div id="default"></div>
+                                        <script>
+                                            $.fn.raty.defaults.path = '../lib/images';
+                                            $(function() {
+                                              $('#default').raty({ score: 2 });
+                                            });
+                                        </script> 
+                                    
+                                    <p>
+                                      Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación.                            
+                                    </p>
                                     <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
-                                       Sobre Nosotros
-                                   </h3>
-                                   <p>
-                                     Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación.                            
-                                   </p>
-                                   <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
-                                       Contacto
-                                   </h3>
-                                   <div class="pi-col-md-6">
+                                        Contacto
+                                    </h3>
+                                    <div class="pi-col-md-6">
                                         <ul class="pi-meta">
                                         	<li><i class="icon-facebook"></i><a href="#">/maryhellums</a></li><br>
                                         	<li><i class="icon-twitter"></i><a href="#">@marylorrys</a></li><br>
                                         	<li><i class="icon-phone"></i><a href="#">0282-4223868</a></li>
                                         </ul>
-                                   </div> 
-                                   <div class="pi-col-md-6">
+                                    </div> 
+                                    <div class="pi-col-md-6">
                                         <ul class="pi-meta">
                                             <li><i class="icon-facebook"></i><a href="#">/maryhellums</a></li><br>
                                             <li><i class="icon-twitter"></i><a href="#">@marylorrys</a></li><br>
                                             <li><i class="icon-phone"></i><a href="#">0282-4223868</a></li>
                                         </ul>
-                                   </div> 
+                                    </div> 
                                 </div>
                             </div>
                             <div class="pi-row">    
@@ -174,46 +185,25 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- end Row -->           
-                            <!-- Row -->
+                            <!-- end Row -->
+                                                        <!-- end Row -->           
                             <div class="pi-row">
-                                <div class="pi-col-xs-12 pi-no-padding">
+                                <div class="pi-col-md-12">
                                     <div class="pi-col-6"> 
-                                          <h3 class="pi-pull-left">Deja tu comentario</h3>
+                                          <h4 class="pi-pull-left">Dejanos tu comentario</h4>
                                     </div>
                                     <div class="pi-col-6"> 
-                                         <h3 class="pi-pull-right"> 0 comentarios</h3>
+                                         <h5 class="pi-pull-right"> 0 comentarios</h5>
                                     </div>
                                 </div>
-                            </div>
+                            </div>                   
                             <div class="pi-row">
-                                <div class="pi-col-xs-12 pi-no-padding"> 
+                                <div class="pi-col-md-12">
                                     <!-- Comment form -->
                                     <form role="form" action="handlers/formContact.php" data-captcha="no" class="pi-contact-form">
                                        
                                         <div class="pi-error-container"></div>
-                                        <div class="form-group">
-                                             
-                                                                <div class="pi-row pi-grid-small-margins">
-                                            <div class="pi-col-2xs-6">
-                                                <div class="form-group">
-                                                    <div class="pi-input-with-icon">
-                                                        <div class="pi-input-icon"><i class="icon-user"></i></div>
-                                                        <input class="form-control form-control-name" id="exampleInputName"
-                                                               placeholder="Nombre">
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="pi-col-2xs-6">
-                                                <div class="form-group">
-                                                    <div class="pi-input-with-icon">
-                                                        <div class="pi-input-icon"><i class="icon-mail"></i></div>
-                                                        <input type="email" class="form-control form-control-email" id="exampleInputEmail"
-                                                               placeholder="Correo Electronico">
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>  
+                                        <div class="form-group"> 
                                             <div class="pi-input-with-icon">
                                                 
                                                 <div class="pi-input-icon"><i class="icon-pencil"></i></div>
@@ -258,6 +248,9 @@
                     </div>
                     <!-- Search -->
                     <div class="pi-sidebar-block pi-padding-bottom-20 pi-padding-left-10">
+                        <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                            Redes Sociales
+                        </h3>
                         <ul class="pi-social-icons pi-big pi-jump pi-colored-bg pi-round pi-padding-bottom-10">
                             <li><a href="wwww.facebook.com/Direxionat" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
                             <li><a href="www.twitter.com/Direxionate" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
