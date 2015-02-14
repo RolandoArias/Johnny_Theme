@@ -310,15 +310,6 @@
 			<div class="pi-sidebar-wrapper pi-sidebar-wrapper-right pi-padding-10" style="background-color: rgb(0, 109, 204);">
 				<div class="pi-sidebar pi-padding-top-10">
 
-	<!-- Search -->
-	<div class="pi-sidebar-block pi-padding-bottom-20 pi-padding-left-10">
-		<ul class="pi-social-icons pi-big pi-jump pi-colored-bg pi-round pi-padding-bottom-10">
-			<li><a href="wwww.facebook.com/Direxionat" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
-			<li><a href="www.twitter.com/Direxionate" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
-			<li><a href="www.plus.google.direxionate.com" class="pi-social-icon-plus"><i class="icon-plus"></i></a></li>
-			<li><a href="www.youtube.com/user/direxionat" class="pi-social-icon-youtube"><i class="icon-youtube"></i></a></li>
-		</ul>
-	</div>
 	<!-- End search -->
 
 	<!-- Categories -->
