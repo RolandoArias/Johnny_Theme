@@ -19,35 +19,36 @@
 				<div class="pi-page">
                     <!-- - - - - - - - - - SECTION - - - - - - - - - -->
                     <div class="pi-section-w pi-section-white piCaptions">
-	                    <div class="pi-padding-bottom-30 pi-padding-top-20">                     	
-                            <!-- Post thumbnail -->
-                            <div class="pi-img-w pi-img-round-corners pi-img-shadow-light pi-margin-bottom-25">
+	                    <div class="pi-padding-bottom-30 pi-padding-top-20">
+                            <div class="pi-col-md-12 pi-no-padding">
+
+                                <script>
+                                    $(function() {
+                                      $.fn.raty.defaults.path = 'lib/images';
+                                      $('#default').raty({ score: 2 });
+                                    });
+                                </script> 
+                            <div class="pi-col-md-10 pi-no-padding pi-img-w">
                             	<a href="#">
                             		<img src="img/ejemplo/peluqueria-beauty-hellums-ca0_banner.jpg" alt="">
                             	</a>
+                            </div>    
+                            <div class="pi-col-md-2">    
+                                <div id="default" style="float: left; margin-right: 10px;"></div>
+                                <i class="icon-print" style="font-size: 20px;"></i><br>
+                                <img src="img_external/gallery/qr1.jpg" alt="">
+                            </div>    
                             </div>
                             <div class="pi-row">
-                                <div class="pi-col-md-4 pi-img-w">
+                                <div class="pi-col-md-4 pi-img-w ">
                                    <a href="#">
                                        <img src="img/ejemplo/logo.jpg" alt="">
                                    </a>
                                 </div>   
                                 <div class="pi-col-md-8">
-                                      
-                                       <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
-                                           Sobre Nosotros
-                                       </h3>
-                                    
-                                    
-                                       <div id="default"></div>
-                                        <script>
-                                            $(function() {
-                                            $.fn.raty.defaults.path = 'lib/images';
-
-                                              $('#default').raty({ score: 2 });
-                                            });
-                                        </script> 
-                                    
+                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                                        Sobre Nosotros
+                                    </h3>
                                     <p>
                                       Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación.                            
                                     </p>
