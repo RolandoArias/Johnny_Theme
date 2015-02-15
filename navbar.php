@@ -68,7 +68,7 @@
 		<li class=""><a href="abouts.php"><span>¿Quiénes Somos?</span></a></li>
 		<li class="pi-has-dropdown"><a href="#"><span>¿Qué Ofrecemos?</span></a>
 			<ul class="pi-submenu" style="background-color: rgba(0, 0, 0, 0.5);">
-				<li><a href="#"><span>Directorio Comercial</span></a></li>
+				<li><a href="directorio.php"><span>Directorio Comercial</span></a></li>
 				<li><a href="#"><span>Espacio Publicitario</span></a></li>
 			    <li><a href="comercio-oro.php"><span>Plan Oro Comercio</span></a></li>
 			</ul>

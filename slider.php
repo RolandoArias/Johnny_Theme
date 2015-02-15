@@ -262,7 +262,7 @@
 
 <div class="pi-row pi-section-menu pi-no-padding pi-no-margin">
 	<div class="pi-col-md-12 background-blue height-100 ">
-		<div class="pi-col-md-2 pi-text-center pi-col-md-offset-3 pi-padding-10"><a href="#hola">Directorio Comercial</a></div>
+		<div class="pi-col-md-2 pi-text-center pi-col-md-offset-3 pi-padding-10"><a href="directorio.php">Directorio Comercial</a></div>
 		<div class="pi-col-md-2 pi-text-center pi-padding-10"><a href="#hola">Súper Ofertas</a></div>
 		<div class="pi-col-md-2 pi-text-center pi-padding-10"><a href="#hola">Solicitud de Tarifas</a></div>
 	</div>

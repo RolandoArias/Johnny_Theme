@@ -35,12 +35,14 @@
                             </div>    
                             <div class="pi-col-md-2">    
                                 <div id="default" style="float: left; margin-right: 10px;"></div>
-                                <i class="icon-print" style="font-size: 20px;"></i><br>
-                                <img src="img_external/gallery/qr1.jpg" alt="">
+                                <a href=""><i class="icon-print" style="font-size: 20px;"></i></a><br>
+                                <div class="pi-img-w">
+                                    <img src="img_external/gallery/qr1.jpg" alt="">
+                                </div> 
                             </div>    
                             </div>
                             <div class="pi-row">
-                                <div class="pi-col-md-4 pi-img-w ">
+                                <div class="pi-col-md-4 pi-img-w">
                                    <a href="#">
                                        <img src="img/ejemplo/logo.jpg" alt="">
                                    </a>
