@@ -6,7 +6,7 @@
 			<div class="pi-page-wrapper">
 				<div class="pi-page">
 					<h3 class=" pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
-                        Directorio Comercial
+                        Súper Ofertas
                     </h3>
                     <!-- - - - - - - - - - SECTION - - - - - - - - - -->
                     <div class="pi-section-white piCaptions">
@@ -14,24 +14,30 @@
                     		<div class="pi-row" style="border: 1px solid #515291;">
                     	        <div class="pi-no-padding pi-no-margin" style="background: url(img/bg/bg-title.png) #515291 repeat-x top left;">
                                     <h3 class="pi-uppercase pi-padding-5" style="font-size: 150%;">
-	                	            	Peluquería Beauty Hellums, C.A.
+	                	            	<a href="#">PC Apple</a>
 	                	            </h3>
                     	        </div>
                     	        <div class="pi-col-md-12 pi-no-padding">
                                     <div class="pi-col-md-4 pi-padding-10">
                                         <a href="#">
-	                			        	<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/farmacia.png" alt=""/>
-	                			        </a> 
+	                			        	<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/bg_macbook.png" alt=""/>
+	                			        </a>
+	                			        <h3 class="pi-uppercase pi-no-padding pi-center" style="font-size: 150%;">
+	                	            	   $1500.00
+	                	                </h3> 
                     	            </div>
                     	            <div class="pi-col-md-8 pi-padding-10">
                                         <p>
-                                          Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación.                            
+                                          Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación...                           
                                         </p>
                                         <ul class="pi-meta">
-                                        	<li><i class="icon-phone"></i> 0282-4223868</li><br>
-                                        	<li><i class="icon-address"></i> Calle Sucre, Local # 6-86, entre Calle Colón y Calle Arismendi. Anaco, Estado Anzoátegui.</li>
+                                        	<li><i class="icon-right-open"></i> Nombre del comercio</li><br>
+                                        	<li><i class="icon-right-open"></i> Ciudad > Estado</li><br>
+                                        	<li><i class="icon-right-open"></i> 100 visitas</li><br>
+                                        	<li><i class="icon-right-open"></i> Categoría</li><br>
+                                        	<li><i class="icon-tag"></i> <a href="">Tag-1</a>, <a href="">Tag-2</a></li>
                                         </ul>
-                                        <a href="#"><button class="btn-blue pi-right">Ver Anuncio Completo<i class="icon-right-open"></i></button> </a> 
+                                        <a href="#"><button class="btn-blue pi-right pi-no-margin">Mas Información<i class="icon-right-open"></i></button> </a> 
                     	            </div>
                                 </div>
                     	    </div>
