@@ -28,22 +28,71 @@
                                           Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación.                            
                                         </p>
                                         <ul class="pi-meta">
+                                        	<li><i class="icon-right-open"></i> RIf: X-##### </li><br>
+                                        	<li><i class="icon-right-open"></i> Categoria </li><br>
                                         	<li><i class="icon-phone"></i> 0282-4223868</li><br>
+                                        	<li><i class="icon-right-open"></i> Estado > Ciudad </li><br>
                                         	<li><i class="icon-address"></i> Calle Sucre, Local # 6-86, entre Calle Colón y Calle Arismendi. Anaco, Estado Anzoátegui.</li>
                                         </ul>
-                                        <a href="#"><button class="btn-blue pi-right">Ver Anuncio Completo<i class="icon-right-open"></i></button> </a> 
                     	            </div>
                                 </div>
+                                <div class="pi-row">
+                                    <div class="pi-col-md-12">
+                                        <div class="pi-col-md-3">
+                                        	<div class="pi-col-md-6 pi-no-padding pi-margin-bottom-10">
+                                                <a href="#">
+	                			        	        <img style="height: 70px; width: 90px;" src="img_external/gallery/bg_macbook.png" alt=""/>
+	                			                </a>
+	                			            </div>
+	                			            <div class="pi-col-md-6 pi-no-padding">
+                                                <ul class="pi-meta">
+                                        	       <li>Laptop DELL</li><br>
+                                        	       <li>$ 1500.00</li>
+                                                </ul>
+	                			            </div>
+                    	                </div>
+                    	                <div class="pi-col-md-3">
+                                           <div class="pi-col-md-6 pi-no-padding pi-margin-bottom-10">
+                                                <a href="#">
+	                			        	        <img style="height: 70px; width: 90px;" src="img_external/gallery/bg_macbook.png" alt=""/>
+	                			                </a>
+	                			            </div>
+	                			            <div class="pi-col-md-6 pi-no-padding">
+                                                <ul class="pi-meta">
+                                        	       <li>Laptop DELL</li><br>
+                                        	       <li>$ 1500.00</li>
+                                                </ul>
+	                			            </div> 
+                    	                </div>
+                    	                <div class="pi-col-md-3">
+                                            <div class="pi-col-md-6 pi-no-padding pi-margin-bottom-10">
+                                                <a href="#">
+	                			        	        <img style="height: 70px; width: 90px;" src="img_external/gallery/bg_macbook.png" alt=""/>
+	                			                </a>
+	                			            </div>
+	                			            <div class="pi-col-md-6 pi-no-padding">
+                                                <ul class="pi-meta">
+                                        	       <li>Laptop DELL</li><br>
+                                        	       <li>$ 1500.00</li>
+                                                </ul>
+	                			            </div>
+                    	                </div>
+                    	                <div class="pi-col-md-3 ">
+                                            <a href="#"><button class="btn-blue pi-padding-10 pi-margin-bottom-20">Ver Anuncio Completo<i class="icon-right-open"></i></button> </a> 
+                    	                </div> 
+                    	            </div>
+                    	        </div>
                     	    </div>
                     	    <div class="pi-row">
                                 <div class="pi-col-md-12" style="background: #515291">
                                     <ul class="pi-meta">
-                                    	<li><i class="icon-facebook"></i><a href="#">/maryhellums</a></li>
-                                    	<li><i class="icon-twitter"></i><a href="#">marylorrys</a></li>
-                                    	<li><i class="icon-plus"></i><a href="#">marylorrys</a></li>
+                                    	<li><i class="icon-facebook"></i><a href="#">Recomendar en Facebook</a></li>
+                                    	<li><i class="icon-twitter"></i><a href="#">Recomendar en Twitter</a></li>
+                                    	<li><i class="icon-plus"></i><a href="#">Recomendar en Google Plus</a></li>
                                     </ul> 
                     	        </div>
                     	    </div>
+                    	    
                         </div>
                     </div>
                     <!-- - - - - - - - - - END SECTION - - - - - - - - - -->

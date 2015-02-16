@@ -37,17 +37,17 @@
                                         	<li><i class="icon-right-open"></i> Categoría</li><br>
                                         	<li><i class="icon-tag"></i> <a href="">Tag-1</a>, <a href="">Tag-2</a></li>
                                         </ul>
-                                        <a href="#"><button class="btn-blue pi-right pi-no-margin">Mas Información<i class="icon-right-open"></i></button> </a> 
+                                        <a href="#"><button class="btn-blue pi-right pi-no-margin pi-padding-10">Mas Información<i class="icon-right-open"></i></button> </a> 
                     	            </div>
                                 </div>
                     	    </div>
                     	    <div class="pi-row">
                                 <div class="pi-col-md-12" style="background: #515291">
                                     <ul class="pi-meta">
-                                    	<li><i class="icon-facebook"></i><a href="#">/maryhellums</a></li>
-                                    	<li><i class="icon-twitter"></i><a href="#">marylorrys</a></li>
-                                    	<li><i class="icon-plus"></i><a href="#">marylorrys</a></li>
-                                    </ul> 
+                                    	<li><i class="icon-facebook"></i><a href="#">Recomendar en Facebook</a></li>
+                                    	<li><i class="icon-twitter"></i><a href="#">Recomendar en Twitter</a></li>
+                                    	<li><i class="icon-plus"></i><a href="#">Recomendar en Google Plus</a></li>
+                                    </ul>
                     	        </div>
                     	    </div>
                         </div>

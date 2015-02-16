@@ -28,7 +28,6 @@
                                             <li><a href="wwww.facebook.com/Direxionat" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
                                             <li class="pi-margin-top-20"><a href="www.twitter.com/Direxionate" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
                                             <li class="pi-margin-top-20"><a href="www.plus.google.direxionate.com" class="pi-social-icon-plus"><i class="icon-plus"></i></a></li>
-                                            <li class="pi-margin-top-20"><a href="www.youtube.com/user/direxionat" class="pi-social-icon-youtube"><i class="icon-youtube"></i></a></li>
                                         </ul>
 
                                     </div>
@@ -101,7 +100,7 @@
                                               $('#default').raty({ score: 4 });
                                             });
                                         </script> 
-                                        <div id="default" style="float: left; margin-left: 10px; margin-right: 10px;"></div> 
+                                        <div style="float: left; margin-left: 20px; margin-right: 10px;">(Vota!) <div id="default" style="float: right; margin-left: 5px;"></div></div> 
                                         <br><br>
                                         <p class="clearfix">
                                           Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación...                           
