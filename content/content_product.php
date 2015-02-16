@@ -21,25 +21,24 @@
                     <div class="pi-section-w pi-section-white piCaptions">
 	                    <div class="pi-padding-bottom-30 pi-padding-top-20">
                             <div class="pi-col-md-12 pi-no-padding">
-
                                 <script>
                                     $(function() {
                                       $.fn.raty.defaults.path = 'lib/images';
                                       $('#default').raty({ score: 2 });
                                     });
-                                </script> <div id="default" style="float: left; margin-right: 10px;"></div>
-                            <div class="pi-col-md-10 pi-no-padding pi-img-w">
-                            	<a href="#">
-                            		<img src="img/ejemplo/peluqueria-beauty-hellums-ca0_banner.jpg" alt="">
-                            	</a>
-                            </div>    
-                            <div class="pi-col-md-2">    
-                                <div id="default" style="float: left; margin-right: 10px;"></div>
-                                <a href=""><i class="icon-print" style="font-size: 20px;"></i></a><br>
-                                <div class="pi-img-w">
-                                    <img src="img_external/gallery/qr1.jpg" alt="">
-                                </div> 
-                            </div>    
+                                </script> 
+                                <div class="pi-col-md-10 pi-no-padding pi-img-w">
+                                	<a href="#">
+                                		<img src="img/ejemplo/peluqueria-beauty-hellums-ca0_banner.jpg" alt="">
+                                	</a>
+                                </div>    
+                                <div class="pi-col-md-2">    
+                                    <div id="default" style="float: left; margin-right: 10px;"></div>
+                                    <a href=""><i class="icon-print" style="font-size: 20px;"></i></a><br>
+                                    <div class="pi-img-w">
+                                        <img src="img_external/gallery/qr1.jpg" alt="">
+                                    </div> 
+                                </div>    
                             </div>
                             <div class="pi-row">
                                 <div class="pi-col-md-4 pi-img-w">
@@ -70,7 +69,6 @@
                                             <li><i class="icon-twitter"></i><a href="#">@marylorrys</a></li><br>
                                             <li><i class="icon-phone"></i><a href="#">0282-4223868</a></li>
                                         </ul>
-                                        <a href="#"><button class="btn-blue pi-right pi-no-margin">Contactar al comercio patrocinador<i class="icon-right-open"></i></button> </a>                                         
                                     </div> 
                                 </div>
                             </div>
