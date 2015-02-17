@@ -179,6 +179,7 @@
 <script src="scripts/sly.min.js"></script>
 <script src="scripts/horizontal.js"></script>
 <script src="scripts/jquery.raty.js"></script>
+<script src="scripts/jquery.sharrre.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
     var substringMatcher = function(strs) {

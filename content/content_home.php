@@ -57,11 +57,11 @@
 						<h5 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 							<a href="#" class="pi-link-white">Nombre del Producto</a>
 						</h5>
+						<p class="pi-margin-top-minus-10 pi-no-margin"><a href="#" class="pi-link-white ">Nombre del comercio</a></p>
 			            <p class="pi-margin-top-minus-5 pi-no-margin">Ciudad/Estado </p>
 			            <h5 class="pi-weight-700 pi-uppercasepi-margin-top-10 pi-letter-spacing pi-text-shadow">
 			            	$ 1500.00
 			            </h5>
-						<p class="pi-margin-top-minus-10 pi-no-margin"><a href="#" class="pi-link-white ">Nombre del comercio</a></p>
 						<ul class="pi-caption-links ">
 							<li><i class="icon-tag"></i><a href="#">APPLE</a>, <a href="#">Lapto</a></li>
 						</ul>
@@ -195,19 +195,55 @@
 				<div class="pi-sidebar pi-padding-top-10">
 
 	<!-- End search -->
+	<div class="pi-sidebar-block pi-padding-bottom-20">
 
+		<div class="pi-gallery-item">
+			<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
+				<a href="#">
+					<img style="height: 200px;" src="img_external/gallery/google.jpg" alt=""/>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="pi-sidebar-block pi-no-padding pi-padding-bottom-20">
+	  <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+			Redes Sociales
+	  </h3>	
+      <div id="example5" class="pi-no-padding pi-no-margin">
+        <div id="shareme" data-url="http://direxionate.com.ve/" data-text="Make your sharing widget with Sharrre (jQuery Plugin)"></div>
+      </div>
+      <script>
+      $(document).ready(function(){
+         $('#shareme').sharrre({
+           share: {
+             googlePlus: true,
+             facebook: true,
+             twitter: true
+           },
+           buttons: {
+             googlePlus: {size: 'tall', annotation:'bubble'},
+             facebook: {layout: 'box_count'},
+             twitter: {count: 'vertical'}
+           },
+           enableHover: false,
+           enableCounter: false,
+           enableTracking: true
+         });
+      });
+      </script>
+    </div><br><br><br>  
 	<!-- Categories -->
 	<div class="pi-sidebar-block pi-padding-bottom-20">
 		<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
 			Enlaces
 		</h3>
-			<div class="pi-gallery-item">
-				<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
-					<a href="#">
-						<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/farmacia.png" alt=""/>
-					</a>
-				</div>
+		<div class="pi-gallery-item">
+			<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
+				<a href="#">
+					<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/farmacia.png" alt=""/>
+				</a>
 			</div>
+		</div>
 	<!-- Search -->
 	<div class="pi-sidebar-block pi-padding-bottom-5">
 		<form class="pi-grouped-input pi-pi-search-form-wide">
@@ -245,7 +281,7 @@
 	<!-- End categories -->
 		<!-- Categories -->
 	<div class="pi-sidebar-block pi-padding-bottom-20">
-				<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+		<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
 		</h3>
 			<div class="pi-gallery-item">
 				<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
@@ -254,6 +290,28 @@
 					</a>
 				</div>
 			</div>
+			<!-- Select -->
+			<div class="form-group">
+				<div class="pi-input-with-icon">
+					<div class="pi-input-icon"><i class="icon-calendar"></i></div>
+					<select class="form-control" id="exampleInputBudget-1">
+						<option>Todos</option>
+						<option>Enero</option>
+						<option>Febrero</option>
+						<option>Marzo</option>
+						<option>Abril</option>
+						<option>Mayo</option>
+						<option>Junio</option>
+						<option>Julio</option>
+						<option>Agosto</option>
+						<option>Septiembre</option>
+						<option>Octubre</option>
+						<option>Noviembre</option>
+						<option>Diciembre</option>
+					</select>
+				</div>
+			</div>
+			<!-- End select -->
 	</div>
 	<!-- End categories -->
 		<!-- Categories -->
@@ -278,34 +336,7 @@
 			</div>
 	</div>
 	<!-- End categories -->
-    <!-- Categories -->
-	<div class="pi-sidebar-block pi-padding-bottom-20">
-		
-		<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
-		Google
-		</h3>
-		<div class="pi-gallery-item">
-			<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
-				<a href="#">
-					<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/google.jpg" alt=""/>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="pi-sidebar-block pi-padding-bottom-20">
-		
-		<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
-		Google
-		</h3>
-			<div class="pi-gallery-item">
-				<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
-					<a href="#">
-						<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/google.jpg" alt=""/>
-					</a>
-				</div>
-			</div>
-	</div>
-	<!-- End categories -->				
+	
 				</div>
 			</div>
 		</div>
