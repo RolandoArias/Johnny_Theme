@@ -170,15 +170,8 @@
 <script src="scripts/pi.slider.js"></script>
 <script src="scripts/pi.init.slider.js"></script>
 <script src="3dParty/jquery.easing.1.3.js"></script>
-<script src="scripts/pi.counter.js"></script>
-<script src="scripts/pi.init.counter.js"></script>
-<script src="scripts/pi.parallax.js"></script>
-<script src="scripts/pi.init.parallax.js"></script>
-<script src="scripts/pi.direxionate.js"></script>
-<script src="scripts/typeahead.bundle.js"></script>
-<script src="scripts/sly.min.js"></script>
-<script src="scripts/horizontal.js"></script>
-<script src="scripts/jquery.raty.js"></script>
+<script src="assets/js/script.js"></script>
+ 
 <script type="text/javascript">
 $(document).ready(function() {
     var substringMatcher = function(strs) {
