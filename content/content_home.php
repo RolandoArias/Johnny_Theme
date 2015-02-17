@@ -25,17 +25,15 @@
 				    	</div>
 				    </div>
 				    <div style="margin-top: 10px;">
-						<h6 class="pi-weight-600 pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-							<a href="#" class="pi-link-white">Ciudad/Estado</a>
-						</h6>
-						<h4 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
+						<h5 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 							<a href="#" class="pi-link-white">Nombre del Comercio</a>
-						</h4>
-						<p class="pi-margin-top-minus-5 pi-no-margin"><a href="#">Categoria</a></p>
+						</h5>
+						<p class="pi-margin-top-minus-5 pi-no-margin">Ciudad/Estado </p>
+						<p class=" pi-no-margin"><a href="#">Categoria</a></p>
 						<ul class="pi-caption-links">
 							<li>RIF: #########</li>
 						</ul>
-						<a href="product.php" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">Ver Comercio</a>
+						<a href="product.php" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing pi-right pi-no-margin pi-margin-bottom-10">Ver Comercio</a>
 					</div>
 				</div>
 				<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
@@ -47,21 +45,27 @@
 			    Super Ofertas Relevantes
 		    </h3>
 			<!-- Portfolio item -->
-			<div class="Beautiful Morning pi-gallery-item isotope-item" style="height: 442px;background-color: rgba(255, 0, 0, 0.13);padding-top: 10px;">
+			<div class="Beautiful Morning pi-gallery-item isotope-item" style="background-color: rgba(255, 0, 0, 0.13);padding-top: 10px;">
 				<div class="">
-					<a href="#"><img src="img_external/gallery/sensuality-at-the-sea.jpg" alt=""></a>
-				    <div style="margin-top: 37px;">
-						<h5 class="pi-weight-600 pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-			            	<a href="#" class="pi-link-white">Nombre de Producto</a>
+					<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
+				    	<a href="#"><img src="img_external/gallery/bg_macbook.png" alt=""></a>
+				    	<div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
+                            <a href="#"><img src="img_external/gallery/3.jpg" alt=""></a>
+				    	</div>
+				    </div>
+				    <div style="margin-top: 10px;">
+						<h5 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
+							<a href="#" class="pi-link-white">Nombre del Producto</a>
+						</h5>
+			            <p class="pi-margin-top-minus-5 pi-no-margin">Ciudad/Estado </p>
+			            <h5 class="pi-weight-700 pi-uppercasepi-margin-top-10 pi-letter-spacing pi-text-shadow">
+			            	$ 1500.00
 			            </h5>
-			            <h5 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-			            	<a href="#" class="pi-link-white">$ 1500.00</a>
-			            </h5>
-						<p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-						<ul class="pi-caption-links pi-margin-bottom-20">
-							<li><i class="icon-tag"></i><a href="#">Beautiful</a>, <a href="#">Morning</a></li>
+						<p class="pi-margin-top-minus-10 pi-no-margin"><a href="#" class="pi-link-white ">Nombre del comercio</a></p>
+						<ul class="pi-caption-links ">
+							<li><i class="icon-tag"></i><a href="#">APPLE</a>, <a href="#">Lapto</a></li>
 						</ul>
-						<a href="product.php" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
+						<a href="product.php" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing pi-right pi-no-margin pi-margin-bottom-10">Ver Mas...</a>
 					</div>
 				</div>
 				<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
@@ -69,125 +73,114 @@
 			<!-- End portfolio item -->
 		</div>	
 		<div id="isotope" class="pi-row pi-padding-top-20 pi-liquid-col-xs-2 pi-liquid-col-sm-3 pi-gallery pi-gallery-small-margins pi-text-left isotope">
-			<h3 style="text-align: left;">Enlaces de Interes</h3>
-
+			<h3 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+			    Enlaces de Interes
+		    </h3>
 			<div class="wrap">
-			    <div class="scrollbar">
-			    	<div class="handle" style="transform: translateZ(0px) translateX(0px); width: 184px;">
-			    		<div class="mousearea"></div>
-			    	</div>
-			    </div>
-
 			    <div class="frame" id="basic" style="overflow: hidden;">
 			        <ul class="clearfix pi-no-padding" style="transform: translateZ(0px) translateX(0px); width: 7068px;">
 				        <li>
 			                <!-- Portfolio item -->
 			                <div>
 			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-			                		<a href="#"><img src="img_external/gallery/bread-and-spikes.jpg" alt=""></a>
+			                		<a href="#"><img src="img/enlaces/mas-gustado.png" alt=""></a>
 			                		<div class="pi-img-overlay pi-img-overlay-darker">
 			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-			                				<a href="#" class="pi-link-white">Bread and spikes</a>
+			                				<a href="#" class="pi-link-white">Anuncios Mas Gustados</a>
 			                			</h6>
-			                			
-			                			<p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-                
-			                			<ul class="pi-caption-links pi-margin-bottom-20">
-			                				<li><i class="icon-tag"></i><a href="#">Food</a>, <a href="#">Nature</a></li>
-			                			</ul>
-			                			
-			                			<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
+			                			<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">Ver Anuncios</a>
 			                		</div>
 			                	</div>
 			                	<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
 			                </div>
 			                <!-- End portfolio item -->
 			            </li>
-		                <li>
-		                	<!-- Portfolio item -->
-		                	<div>
-		                		<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-		                			<a href="#"><img src="img_external/gallery/sailing.jpg" alt=""></a>
-		                			<div class="pi-img-overlay pi-img-overlay-darker">
-		                				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-		                					<a href="#" class="pi-link-white">Sailing</a>
-		                				</h6>
-		                				<p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-		                				<ul class="pi-caption-links pi-margin-bottom-20">
-		                					<li><i class="icon-tag"></i><a href="#">Travel</a>, <a href="#">Lifestyle</a></li>
-		                				</ul>
-		                				<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
-		                			</div>
-		                		</div>
-		                		<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
-		                	</div>
-		                	<!-- End portfolio item -->
-		                </li>
-		                <li>
-		                	<!-- Portfolio item -->
-		                	<div>
-		                		<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-		                			<a href="#"><img src="img_external/gallery/sailing.jpg" alt=""></a>
-		                			<div class="pi-img-overlay pi-img-overlay-darker">
-		                				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-		                					<a href="#" class="pi-link-white">Sailing</a>
-		                				</h6>
-		                				<p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-		                				<ul class="pi-caption-links pi-margin-bottom-20">
-		                					<li><i class="icon-tag"></i><a href="#">Travel</a>, <a href="#">Lifestyle</a></li>
-		                				</ul>
-		                				<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
-		                			</div>
-		                		</div>
-		                		<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
-		                	</div>
-		                	<!-- End portfolio item -->
-		                </li>
-		                <li>
-		                	<!-- Portfolio item -->
-		                	<div>
-		                		<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-		                			<a href="#"><img src="img_external/gallery/sailing.jpg" alt=""></a>
-		                			<div class="pi-img-overlay pi-img-overlay-darker">
-		                				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-		                					<a href="#" class="pi-link-white">Sailing</a>
-		                				</h6>
-		                				<p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-		                				<ul class="pi-caption-links pi-margin-bottom-20">
-		                					<li><i class="icon-tag"></i><a href="#">Travel</a>, <a href="#">Lifestyle</a></li>
-		                				</ul>
-		                				<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
-		                			</div>
-		                		</div>
-		                		<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
-		                	</div>
-		                	<!-- End portfolio item -->
-		                </li>
-		                <li>
-		                	<!-- Portfolio item -->
-		                	<div>
-		                		<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-		                			<a href="#"><img src="img_external/gallery/sailing.jpg" alt=""></a>
-		                			<div class="pi-img-overlay pi-img-overlay-darker">
-		                				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-		                					<a href="#" class="pi-link-white">Sailing</a>
-		                				</h6>
-		                				<p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-		                				<ul class="pi-caption-links pi-margin-bottom-20">
-		                					<li><i class="icon-tag"></i><a href="#">Travel</a>, <a href="#">Lifestyle</a></li>
-		                				</ul>
-		                				<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
-		                			</div>
-		                		</div>
-		                		<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
-		                	</div>
-		                	<!-- End portfolio item -->
-		                </li>
+			            <li>
+			                <!-- Portfolio item -->
+			                <div>
+			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
+			                		<a href="#"><img src="img/enlaces/mas-visitados.png" alt=""></a>
+			                		<div class="pi-img-overlay pi-img-overlay-darker">
+			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
+			                				<a href="#" class="pi-link-white">Anuncios Mas Visitados</a>
+			                			</h6>
+			                			<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">Ver Anuncios</a>
+			                		</div>
+			                	</div>
+			                	<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
+			                </div>
+			                <!-- End portfolio item -->
+			            </li>
+			             <li>
+			                <!-- Portfolio item -->
+			                <div>
+			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
+			                		<a href="#"><img src="img/enlaces/destacados.png" alt=""></a>
+			                		<div class="pi-img-overlay pi-img-overlay-darker">
+			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
+			                				<a href="#" class="pi-link-white">Anuncios Destacados</a>
+			                			</h6>
+			                			<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">Ver Anuncios</a>
+			                		</div>
+			                	</div>
+			                	<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
+			                </div>
+			                <!-- End portfolio item -->
+			            </li>
+			             <li>
+			                <!-- Portfolio item -->
+			                <div>
+			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
+			                		<a href="#"><img src="img/enlaces/recientes.png" alt=""></a>
+			                		<div class="pi-img-overlay pi-img-overlay-darker">
+			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
+			                				<a href="#" class="pi-link-white">Anuncios Recientes</a>
+			                			</h6>
+			                			<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">Ver Anuncios</a>
+			                		</div>
+			                	</div>
+			                	<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
+			                </div>
+			                <!-- End portfolio item -->
+			            </li>
+			             <li>
+			                <!-- Portfolio item -->
+			                <div>
+			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
+			                		<a href="#"><img src="img/enlaces/super-oferta-recientes.png" alt=""></a>
+			                		<div class="pi-img-overlay pi-img-overlay-darker">
+			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
+			                				<a href="#" class="pi-link-white">Super Ofertas Recientes</a>
+			                			</h6>
+			                			<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">Ver Ofertas</a>
+			                		</div>
+			                	</div>
+			                	<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
+			                </div>
+			                <!-- End portfolio item -->
+			            </li>
+			             <li>
+			                <!-- Portfolio item -->
+			                <div>
+			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
+			                		<a href="#"><img src="img/enlaces/ofertas-visitadas.png" alt=""></a>
+			                		<div class="pi-img-overlay pi-img-overlay-darker">
+			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
+			                				<a href="#" class="pi-link-white">Super Ofertas Mas Visitadas</a>
+			                			</h6>
+			                			<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">Ver Ofertas</a>
+			                		</div>
+			                	</div>
+			                	<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
+			                </div>
+			                <!-- End portfolio item -->
+			            </li>
+		                
 			        </ul>
 			    </div>
 			    <div class="controls center">
-			    	<button class="btn_left prevPage disabled" disabled=""><i class="icon-left-open"></i><i class="icon-chevron-left"></i></button>
-			    	<button class="btn_rigth nextPage"><i class="icon-chevron-right"></i><i class="icon-right-open"></i></button>
+			    	<button class="btn_left prevPage disabled" disabled="" style="top: 37px;"><i class="icon-left-open"></i><i class="icon-chevron-left"></i></button>
+			    	<button class="btn_rigth nextPage" style="top: 37px;"><i class="icon-chevron-right"></i><i class="icon-right-open"></i></button>
 			    </div>
 		    </div>
 		    <!-- End portfolio gallery -->
