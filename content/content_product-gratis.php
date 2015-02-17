@@ -3,14 +3,13 @@
         <div class="pi-layout pi-layout-fluid-fixed">
                     <div class="pi-section-w pi-section-base pi-section-base-gradient">
                         <div class="pi-section pi-titlebar pi-titlebar-breadcrumb-right pi-titlebar-small pi-no-padding">
-                            <div>
-                                <h1>Peluquería Beauty Hellums, C.A.</h1>
-                                <p class="pi-no-margin">La belleza es nuestra especialidad</p> 
+                            <div style="color: rgb(0, 109, 204);">
+                                <h1 style="color: rgb(0, 109, 204);" class="pi-weight-600">Peluquería Beauty Hellums, C.A.</h1>
+                                <p class="pi-no-margin ">La belleza es nuestra especialidad</p> 
                             </div>
                             <div class="pi-breadcrumb">
                                 <ul>
-                                    <li><a href="#">Inicio</a></li>
-                                    <li>Peluquería Beauty Hellums, C.A.</li>
+                                    <li style="color: rgb(0, 109, 204);">Estado > Ciudad / RIf: X-##### / Subcategoria</li>
                                 </ul>
                             </div>
                         </div>
@@ -54,7 +53,7 @@
                                         </h3>
                 
                                         <p class="pi-margin-bottom-10">
-                                            0282-4223868
+                                            <i class="icon-phone"></i>  0282-4223868
                                         </p>
                                         
                                     </div>
@@ -121,7 +120,91 @@
                                     
                                         <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
                                             Comercios relacionados con la busqueda
-                                        </h3>                
+                                        </h3> 
+                                        <div class="pi-row pi-liquid-col-xs-2 pi-liquid-col-sm-3 pi-gallery pi-gallery-small-margins pi-text-center isotope">
+                                        <!-- Portfolio item -->
+                                        <div class="Beautiful Morning pi-gallery-item isotope-item" style="height: 442px;background-color: rgba(255, 0, 0, 0.13);padding-top: 10px;">
+                                            <div class="">
+                                            <div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
+                                                <a href="#"><img src="img_external/gallery/pelu1.jpg" alt=""></a>
+                                                <div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
+                                                   <a href="#"><img src="img_external/gallery/primera-imagen.jpg" alt=""></a>
+                                                </div>
+                                            </div>
+                                                
+                                            <div style="margin-top: 37px;">
+                                                    <h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
+                                                        <a href="#" class="pi-link-white">Sensuality at the sea</a>
+                                                    </h6>
+                                                    
+                                                    <p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
+                            
+                                                    <ul class="pi-caption-links pi-margin-bottom-20">
+                                                        <li><i class="icon-tag"></i><a href="#">Beautiful</a>, <a href="#">Morning</a></li>
+                                                    </ul>
+                                                    
+                                                    <a href="product.php" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
+                                                </div></div>
+                                            <div class="pi-img-shadow-gap pi-shadow-effect8"></div>
+                                        </div>
+                                        <!-- End portfolio item -->
+                                        
+                                        <!-- Portfolio item -->
+                                        <div class="Beautiful Morning pi-gallery-item isotope-item" style="height: 442px;background-color: rgba(255, 0, 0, 0.13);padding-top: 10px; border-left: 5px solid rgb(250, 167, 50);">
+                                            <div class="">
+                            
+                                            <div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
+                                                <a href="#"><img src="img_external/gallery/2.jpg" alt=""></a>
+                                                <div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
+                                                   <a href="#"><img src="img_external/gallery/2-2.jpg" alt=""></a>
+                                                </div>
+                                            </div>
+                                                
+                                            <div style="margin-top: 37px;">
+                                                    <h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
+                                                        <a href="#" class="pi-link-white">Sensuality at the sea</a>
+                                                    </h6>
+                                                    
+                                                    <p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
+                            
+                                                    <ul class="pi-caption-links pi-margin-bottom-20">
+                                                        <li><i class="icon-tag"></i><a href="#">Beautiful</a>, <a href="#">Morning</a></li>
+                                                    </ul>
+                                                    
+                                                    <a href="product.php" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
+                                                </div></div>
+                                            <div class="pi-img-shadow-gap pi-shadow-effect8"></div>
+                                        </div>
+                                        <!-- End portfolio item -->
+                                        
+                                        <!-- Portfolio item -->
+                                        <div class="Beautiful Morning pi-gallery-item isotope-item" style="height: 442px;background-color: rgba(255, 0, 0, 0.13);padding-top: 10px; border-left: 5px solid rgb(250, 167, 50);">
+                                            <div class="">
+                            
+                                            <div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
+                                                <a href="#"><img src="img_external/gallery/3.jpg" alt=""></a>
+                                                <div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
+                                                   <a href="#"><img src="img_external/gallery/3-3.jpg" alt=""></a>
+                                                </div>
+                                            </div>
+                                                
+                                            <div style="margin-top: 37px;">
+                                                    <h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
+                                                        <a href="#" class="pi-link-white">Sensuality at the sea</a>
+                                                    </h6>
+                                                    
+                                                    <p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
+                            
+                                                    <ul class="pi-caption-links pi-margin-bottom-20">
+                                                        <li><i class="icon-tag"></i><a href="#">Beautiful</a>, <a href="#">Morning</a></li>
+                                                    </ul>
+                                                    
+                                                    <a href="product.php" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
+                                                </div></div>
+                                            <div class="pi-img-shadow-gap pi-shadow-effect8"></div>
+                                        </div>
+                                        <!-- End portfolio item -->
+                                    </div>               
 
                                         
                                     </div>

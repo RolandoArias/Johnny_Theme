@@ -24,6 +24,7 @@
                     	       
                     	        <div class="pi-col-md-12 pi-no-padding">
                                     <div class="pi-col-md-1 pi-padding-10">
+                                    	<p>Compartir</p>
                                         <ul class="pi-social-icons pi-jump pi-colored-bg pi-round">
                                             <li><a href="wwww.facebook.com/Direxionat" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
                                             <li class="pi-margin-top-20"><a href="www.twitter.com/Direxionate" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
@@ -118,7 +119,7 @@
                     	    </div>
     		                <div class="pi-row pi-liquid-col-xs-2 pi-liquid-col-sm-3 pi-gallery pi-gallery-small-margins pi-text-center isotope">
                     	    	<h3 class="pi-uppercase pi-has-bg">
-                    	    		Productos Recomendados
+                    	    		Mis otros productos
                     	    	</h3>
 			                    <!-- Portfolio item -->
 			                    <div class="Beautiful Morning pi-gallery-item isotope-item" style="height: 442px;background-color: rgba(255, 0, 0, 0.13);padding-top: 10px;">

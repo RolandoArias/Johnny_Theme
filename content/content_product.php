@@ -1,18 +1,19 @@
 <div class="pi-section-w pi-section-white">
 	<div class="pi-section pi-section-p pi-clearfix">
         <div class="pi-section-w pi-section-base pi-section-base-gradient">
+        <div class="pi-section-w pi-section-base pi-section-base-gradient">
             <div class="pi-section pi-titlebar pi-titlebar-breadcrumb-right pi-titlebar-small pi-no-padding">
-                <div>
-                    <h1>Peluquería Beauty Hellums, C.A.</h1>
-                    <p class="pi-no-margin">La belleza es nuestra especialidad</p> 
+                <div style="color: rgb(0, 109, 204);">
+                    <h1 style="color: rgb(0, 109, 204);" class="pi-weight-600">Peluquería Beauty Hellums, C.A.</h1>
+                    <p class="pi-no-margin ">La belleza es nuestra especialidad</p> 
                 </div>
                 <div class="pi-breadcrumb">
                     <ul>
-                        <li><a href="#">Inicio</a></li>
-                        <li>Peluquería Beauty Hellums, C.A.</li>
+                        <li style="color: rgb(0, 109, 204);">Estado > Ciudad / RIf: X-##### / Subcategoria</li>
                     </ul>
                 </div>
             </div>
+        </div>
         </div>
         <div class="pi-layout pi-layout-fluid-fixed">
 			<div class="pi-page-wrapper">

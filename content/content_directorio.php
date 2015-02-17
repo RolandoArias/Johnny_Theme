@@ -28,10 +28,8 @@
                                           Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación.                            
                                         </p>
                                         <ul class="pi-meta">
-                                        	<li><i class="icon-right-open"></i> RIf: X-##### </li><br>
                                         	<li><i class="icon-right-open"></i> Categoria </li><br>
                                         	<li><i class="icon-phone"></i> 0282-4223868</li><br>
-                                        	<li><i class="icon-right-open"></i> Estado > Ciudad </li><br>
                                         	<li><i class="icon-address"></i> Calle Sucre, Local # 6-86, entre Calle Colón y Calle Arismendi. Anaco, Estado Anzoátegui.</li>
                                         </ul>
                     	            </div>
