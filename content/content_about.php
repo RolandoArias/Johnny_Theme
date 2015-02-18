@@ -1,7 +1,7 @@
 <div id="page">
 <!-- - - - - - - - - - SECTION - - - - - - - - - -->
 
-<div class="pi-section-w pi-section-base pi-section-parallax piCounter piTabs" style="background-image: url(../img_external/gallery/team-smiling.jpg);">
+<div class="pi-section-w pi-section-base pi-section-parallax piCounter piTabs" style="background-image: url(assets/images/gallery/team-smiling.jpg);">
 	<div class="pi-texture" style="background: rgba(24, 28, 32, 0.8);"></div>
 	<div class="pi-section pi-padding-top-120 pi-padding-bottom-100 pi-text-center">
 		
@@ -62,7 +62,7 @@
 
 <!-- - - - - - - - - - SECTION - - - - - - - - - -->
 
-<div class="pi-section-w pi-section-parallax" style="background-image: url(../img_external/gallery/glina.jpg);">
+<div class="pi-section-w pi-section-parallax" style="background-image: url(assets/images/gallery/glina.jpg);">
 	<div class="pi-texture" style="background: rgba(24, 28, 32, 0.8);"></div>
 	<div class="pi-section pi-padding-top-80 pi-padding-bottom-40">
 		
@@ -79,7 +79,7 @@
 			<div class="pi-col-xs-6 pi-col-sm-3 pi-padding-bottom-40">
 				
 				<div class="pi-img-w pi-margin-bottom-30">
-					<img src="../img_external/icons/120px/light-bulb-lined-white.png" style="width: 100px;" class="pi-img-center" alt="" />
+					<img src="assets/images/icons/120px/light-bulb-lined-white.png" style="width: 100px;" class="pi-img-center" alt="" />
 				</div>
 				
 				<h5 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-text-base">Strategy</h5>
@@ -95,7 +95,7 @@
 			<div class="pi-col-xs-6 pi-col-sm-3 pi-padding-bottom-40">
 
 				<div class="pi-img-w pi-margin-bottom-30">
-					<img src="../img_external/icons/120px/monitor-lined-white.png" style="width: 100px;" class="pi-img-center" alt="" />
+					<img src="assets/images/icons/120px/monitor-lined-white.png" style="width: 100px;" class="pi-img-center" alt="" />
 				</div>
 				
 				<h5 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-text-base">Design</h5>
@@ -111,7 +111,7 @@
 			<div class="pi-col-xs-6 pi-col-sm-3 pi-padding-bottom-40">
 				
 				<div class="pi-img-w pi-margin-bottom-30">
-					<img src="../img_external/icons/120px/pencil-brush-lined-white.png" style="width: 100px;" class="pi-img-center" alt="" />
+					<img src="assets/images/icons/120px/pencil-brush-lined-white.png" style="width: 100px;" class="pi-img-center" alt="" />
 				</div>
 
 				<h5 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-text-base">Illustration</h5>
@@ -127,7 +127,7 @@
 			<div class="pi-col-xs-6 pi-col-sm-3 pi-padding-bottom-40">
 
 				<div class="pi-img-w pi-margin-bottom-30">
-					<img src="../img_external/icons/120px/cog-lined-white.png" style="width: 100px;" class="pi-img-center" alt="" />
+					<img src="assets/images/icons/120px/cog-lined-white.png" style="width: 100px;" class="pi-img-center" alt="" />
 				</div>
 
 				<h5 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-text-base">Development</h5>
@@ -231,7 +231,7 @@
 				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Nike">
 					<a href="#">
 					<span class="pi-img-opacity-70">
-						<img src="../img_external/clients/nike-2.png" alt="">
+						<img src="assets/images/clients/nike-2.png" alt="">
 					</span>
 					</a>
 				</div>
@@ -243,7 +243,7 @@
 				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Google">
 					<a href="#">
 					<span class="pi-img-opacity-70">
-						<img src="../img_external/clients/google-2.png" alt="">
+						<img src="assets/images/clients/google-2.png" alt="">
 					</span>
 					</a>
 				</div>
@@ -255,7 +255,7 @@
 				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Sony">
 					<a href="#">
 					<span class="pi-img-opacity-70">
-						<img src="../img_external/clients/sony-2.png" alt="">
+						<img src="assets/images/clients/sony-2.png" alt="">
 					</span>
 					</a>
 				</div>
@@ -267,7 +267,7 @@
 				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Virgin">
 					<a href="#">
 					<span class="pi-img-opacity-70">
-						<img src="../img_external/clients/virgin-2.png" alt="">
+						<img src="assets/images/clients/virgin-2.png" alt="">
 					</span>
 					</a>
 				</div>
@@ -279,7 +279,7 @@
 				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Instagram">
 					<a href="#">
 					<span class="pi-img-opacity-70">
-						<img src="../img_external/clients/instagram-2.png" alt="">
+						<img src="assets/images/clients/instagram-2.png" alt="">
 					</span>
 					</a>
 				</div>
@@ -291,7 +291,7 @@
 				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Disney">
 					<a href="#">
 					<span class="pi-img-opacity-70">
-						<img src="../img_external/clients/disney-2.png" alt="">
+						<img src="assets/images/clients/disney-2.png" alt="">
 					</span>
 					</a>
 				</div>
@@ -303,7 +303,7 @@
 				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Rolex">
 					<a href="#">
 					<span class="pi-img-opacity-70">
-						<img src="../img_external/clients/rolex-2.png" alt="">
+						<img src="assets/images/clients/rolex-2.png" alt="">
 					</span>
 					</a>
 				</div>
@@ -315,7 +315,7 @@
 				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Yahoo">
 					<a href="#">
 					<span class="pi-img-opacity-70">
-						<img src="../img_external/clients/yahoo-2.png" alt="">
+						<img src="assets/images/clients/yahoo-2.png" alt="">
 					</span>
 					</a>
 				</div>
@@ -327,7 +327,7 @@
 				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Amazon">
 					<a href="#">
 					<span class="pi-img-opacity-70">
-						<img src="../img_external/clients/amazon-2.png" alt="">
+						<img src="assets/images/clients/amazon-2.png" alt="">
 					</span>
 					</a>
 				</div>
@@ -339,7 +339,7 @@
 				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Cartier">
 					<a href="#">
 					<span class="pi-img-opacity-70">
-						<img src="../img_external/clients/cartier-2.png" alt="">
+						<img src="assets/images/clients/cartier-2.png" alt="">
 					</span>
 					</a>
 				</div>

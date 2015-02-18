@@ -12,7 +12,7 @@
                     <div class="pi-section-white piCaptions">
                     	<div class="pi-section pi-no-padding pi-padding-15">
                     		<div class="pi-row" style="border: 1px solid #515291;">
-                    	        <div class="pi-no-padding pi-no-margin" style="background: url(img/bg/bg-title.png) #515291 repeat-x top left;">
+                    	        <div class="pi-no-padding pi-no-margin" style="background: url(assets/images/bg/bg-title.png) #515291 repeat-x top left;">
                                     <h3 class="pi-uppercase pi-padding-5" style="font-size: 150%;">
 	                	            	<a href="product-detalle.php">PC Apple</a>
 	                	            </h3>
@@ -20,7 +20,7 @@
                     	        <div class="pi-col-md-12 pi-no-padding">
                                     <div class="pi-col-md-4 pi-padding-10">
                                         <a href="product-detalle.php">
-	                			        	<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/bg_macbook.png" alt=""/>
+	                			        	<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
 	                			        </a>
 	                			        <h3 class="pi-uppercase pi-no-padding pi-center" style="font-size: 150%;">
 	                	            	   $1500.00
@@ -64,7 +64,7 @@
 	                	<div class="pi-gallery-item">
 	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/farmacia.png" alt=""/>
+	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/farmacia.png" alt=""/>
 	                			</a>
 	                		</div>
 	                	</div>
@@ -86,7 +86,7 @@
 	                	<div class="pi-gallery-item">
 	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/emergencia.png" alt=""/>
+	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/emergencia.png" alt=""/>
 	                			</a>
 	                		</div>
 	                	</div>
@@ -107,7 +107,7 @@
 	                	<div class="pi-gallery-item">
 	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/calendario.png" alt=""/>
+	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/calendario.png" alt=""/>
 	                			</a>
 	                		</div>
 	                	</div>
@@ -120,14 +120,14 @@
 	                	<div class="pi-gallery-item">
 	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/rumbera.jpg" alt=""/>
+	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/rumbera.jpg" alt=""/>
 	                			</a>
 	                		</div>
 	                	</div>
 	                	<div class="pi-gallery-item">
 	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/anunciate.jpg" alt=""/>
+	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/anunciate.jpg" alt=""/>
 	                			</a>
 	                		</div>
 	                	</div>
@@ -139,7 +139,7 @@
 	                	<div class="pi-gallery-item">
 	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/google.jpg" alt=""/>
+	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/google.jpg" alt=""/>
 	                			</a>
 	                		</div>
 	                	</div>

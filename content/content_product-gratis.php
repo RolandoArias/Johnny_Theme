@@ -22,17 +22,17 @@
 	                    <div class="pi-section pi-padding-bottom-60">
                             <!-- Post -->
                                                       	
-                            <!-- Post thumbnail -->
+                            <!-- Post thumbnail --> 
                             <div class="pi-img-w pi-img-round-corners pi-img-shadow-light pi-margin-bottom-25 pi-padding-left-100 pi-padding-right-100">
                             	<a href="#">
-                            		<img src="img_external/addsen/addsen-top.JPG" alt="">
+                            		<img src="assets/images/addsen/addsen-top.JPG" alt="">
                             	</a>
                             </div>
                             <!-- End post thumbnail -->
                             <!-- Post content -->
                             <div style="float:left; width: 35%;">
                                 <a href="#">
-                                    <img src="assets/images/logo.png" alt="" style="float:left; width: 95%;">
+                                    <img src="assets/images/gallery/2.jpg" alt="" style="float:left; width: 95%;">
                                 </a>
                             </div>
                             <p>
@@ -62,13 +62,13 @@
                                 
                             <div class="pi-img-w pi-img-round-corners pi-img-shadow-light pi-margin-bottom-25 pi-padding-left-100 pi-padding-right-100 pi-padding-top-bottom-20">
                                 <a href="#">
-                                    <img src="img_external/addsen/addsen-line.JPG" alt="">
+                                    <img src="assets/images/addsen/addsen-line.JPG" alt="">
                                 </a>
                             </div>
                             <!-- End col 4 -->
                             <div style="float:left; width: 35%;">
                                 <a href="#">
-                                    <img src="img_external/addsen/addsen-rigth.JPG" alt="" style="float:left; width: 95%;">
+                                    <img src="assets/images/addsen/addsen-rigth.JPG" alt="" style="float:left; width: 95%;">
                                 </a>
                             </div>
                 			<!-- Col 4 -->
@@ -102,7 +102,7 @@
                             <!-- Slider -->
                             <div class="pi-img-w pi-img-round-corners pi-img-shadow-light pi-margin-bottom-25 pi-padding-left-100 pi-padding-right-100 pi-padding-top-bottom-20">
                                 <a href="#">
-                                    <img src="img_external/addsen/all_units_en.JPG" alt="">
+                                    <img src="assets/images/addsen/all_units_en.JPG" alt="">
                                 </a>
                             </div>
                 <!-- End slider -->
@@ -126,9 +126,9 @@
                                         <div class="Beautiful Morning pi-gallery-item isotope-item" style="height: 442px;background-color: rgba(255, 0, 0, 0.13);padding-top: 10px;">
                                             <div class="">
                                             <div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-                                                <a href="#"><img src="img_external/gallery/pelu1.jpg" alt=""></a>
+                                                <a href="#"><img src="assets/images/gallery/pelu1.jpg" alt=""></a>
                                                 <div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
-                                                   <a href="#"><img src="img_external/gallery/primera-imagen.jpg" alt=""></a>
+                                                   <a href="#"><img src="assets/images/gallery/primera-imagen.jpg" alt=""></a>
                                                 </div>
                                             </div>
                                                 
@@ -154,9 +154,9 @@
                                             <div class="">
                             
                                             <div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-                                                <a href="#"><img src="img_external/gallery/2.jpg" alt=""></a>
+                                                <a href="#"><img src="assets/images/gallery/2.jpg" alt=""></a>
                                                 <div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
-                                                   <a href="#"><img src="img_external/gallery/2-2.jpg" alt=""></a>
+                                                   <a href="#"><img src="assets/images/gallery/2-2.jpg" alt=""></a>
                                                 </div>
                                             </div>
                                                 
@@ -182,9 +182,9 @@
                                             <div class="">
                             
                                             <div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-                                                <a href="#"><img src="img_external/gallery/3.jpg" alt=""></a>
+                                                <a href="#"><img src="assets/images/gallery/3.jpg" alt=""></a>
                                                 <div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
-                                                   <a href="#"><img src="img_external/gallery/3-3.jpg" alt=""></a>
+                                                   <a href="#"><img src="assets/images/gallery/3-3.jpg" alt=""></a>
                                                 </div>
                                             </div>
                                                 
@@ -280,7 +280,7 @@ height: 177px;"></iframe>                </div>
             <div class="pi-gallery-item">
                 <div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
                     <a href="#">
-                        <img src="img_external/addsen/addsen-short.JPG" alt=""/>
+                        <img src="assets/images/addsen/addsen-short.JPG" alt=""/>
                     </a>
                 </div>
 
@@ -296,7 +296,7 @@ height: 177px;"></iframe>                </div>
             <div class="pi-gallery-item">
                 <div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
                     <a href="#">
-                        <img style="height: 50px; border-radius: 10px;" src="img_external/addsen/img 4.png" alt=""/>
+                        <img style="height: 50px; border-radius: 10px;" src="assets/images/addsen/img 4.png" alt=""/>
                     </a>
                 </div>
                 <p class="pi-margin-bottom-10" style="text-align: right;">
@@ -309,7 +309,7 @@ height: 177px;"></iframe>                </div>
             <div class="pi-gallery-item">
                 <div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
                     <a href="#">
-                        <img  src="img_external/addsen/columna.JPG" alt=""/>
+                        <img  src="assets/images/addsen/columna.JPG" alt=""/>
                     </a>
                 </div>
 

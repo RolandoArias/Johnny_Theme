@@ -20,7 +20,7 @@ module.exports = function(grunt) {
                 'build/plugins/rs-plugin/css/pi.settings.css',
                 'build/css/typo.css',                
                 'build/plugins/colorbox/colorbox.css',
-                'build/css/portafolio.css',                                
+                'build/css/portfolio.css',                                 
                 'build/css/slider.css',                                
                 'build/css/counters.css',                                
                 'build/css/social.css',                                

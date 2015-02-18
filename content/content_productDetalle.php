@@ -34,7 +34,7 @@
                                     </div>
                                     <div class="pi-col-md-5 pi-padding-10">
                                         <a href="#">
-	                			        	<img style="height:|; border-radius: 10px;" src="img_external/gallery/bg_macbook.png" alt=""/>
+	                			        	<img style="height:|; border-radius: 10px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
 	                			        </a>
 	                			        <div class="wrap">
 			                                <div class="frame" id="basic" style="overflow: hidden;">
@@ -42,42 +42,42 @@
 			                                    	<li style="width: 112px;">
 			                                            <!-- img-->
 			                                            	<div style="width: 100%;">
-			                                            		<a href="#"><img src="img_external/gallery/bread-and-spikes.jpg" alt=""></a>
+			                                            		<a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
 			                                            	</div>
 			                                            <!-- End img -->
 			                                        </li>
 			                                        <li style="width: 115px;">
 			                                            <!-- img-->
 			                                            	<div style="width: 100%;">
-			                                            		<a href="#"><img src="img_external/gallery/bread-and-spikes.jpg" alt=""></a>
+			                                            		<a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
 			                                            	</div>
 			                                            <!-- End img -->
 			                                        </li>
 			                                        <li style="width: 115px;">
 			                                            <!-- img-->
 			                                            	<div style="width: 100%;">
-			                                            		<a href="#"><img src="img_external/gallery/bread-and-spikes.jpg" alt=""></a>
+			                                            		<a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
 			                                            	</div>
 			                                            <!-- End img -->
 			                                        </li>
 			                                        <li style="width: 115px;">
 			                                            <!-- img-->
 			                                            	<div style="width: 100%;">
-			                                            		<a href="#"><img src="img_external/gallery/bread-and-spikes.jpg" alt=""></a>
+			                                            		<a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
 			                                            	</div>
 			                                            <!-- End img -->
 			                                        </li>
 			                                        <li style="width: 115px;">
 			                                            <!-- img-->
 			                                            	<div style="width: 100%;">
-			                                            		<a href="#"><img src="img_external/gallery/bread-and-spikes.jpg" alt=""></a>
+			                                            		<a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
 			                                            	</div>
 			                                            <!-- End img -->
 			                                        </li>
 			                                        <li style="width: 115px;">
 			                                            <!-- img-->
 			                                            	<div style="width: 100%;">
-			                                            		<a href="#"><img src="img_external/gallery/bread-and-spikes.jpg" alt=""></a>
+			                                            		<a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
 			                                            	</div>
 			                                            <!-- End img -->
 			                                        </li>
@@ -97,7 +97,7 @@
 	                	                </h3>
 	                	                <script>
                                             $(function() {
-                                              $.fn.raty.defaults.path = 'lib/images';
+                                              $.fn.raty.defaults.path = 'assets/images';
                                               $('#default').raty({ score: 4 });
                                             });
                                         </script> 
@@ -125,9 +125,9 @@
 			                    <div class="Beautiful Morning pi-gallery-item isotope-item" style="height: 442px;background-color: rgba(255, 0, 0, 0.13);padding-top: 10px;">
 			                    	<div class="">
   			                    	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-			                    		<a href="#"><img src="img_external/gallery/pelu1.jpg" alt=""></a>
+			                    		<a href="#"><img src="assets/images/gallery/pelu1.jpg" alt=""></a>
 			                    		<div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
-                                           <a href="#"><img src="img_external/gallery/primera-imagen.jpg" alt=""></a>
+                                           <a href="#"><img src="assets/images/gallery/primera-imagen.jpg" alt=""></a>
 			                    		</div>
 			                    	</div>
 			                    		
@@ -153,9 +153,9 @@
 			                    	<div class="">
                       
   			                    	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-			                    		<a href="#"><img src="img_external/gallery/2.jpg" alt=""></a>
+			                    		<a href="#"><img src="assets/images/gallery/2.jpg" alt=""></a>
 			                    		<div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
-                                           <a href="#"><img src="img_external/gallery/2-2.jpg" alt=""></a>
+                                           <a href="#"><img src="assets/images/gallery/2-2.jpg" alt=""></a>
 			                    		</div>
 			                    	</div>
 			                    		
@@ -181,9 +181,9 @@
 			                    	<div class="">
                       
   			                    	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-			                    		<a href="#"><img src="img_external/gallery/3.jpg" alt=""></a>
+			                    		<a href="#"><img src="assets/images/gallery/3.jpg" alt=""></a>
 			                    		<div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
-                                           <a href="#"><img src="img_external/gallery/3-3.jpg" alt=""></a>
+                                           <a href="#"><img src="assets/images/gallery/3-3.jpg" alt=""></a>
 			                    		</div>
 			                    	</div>
 			                    		
@@ -250,7 +250,7 @@
 	                	<div class="pi-gallery-item">
 	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/farmacia.png" alt=""/>
+	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/farmacia.png" alt=""/>
 	                			</a>
 	                		</div>
 	                	</div>
@@ -272,7 +272,7 @@
 	                	<div class="pi-gallery-item">
 	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/emergencia.png" alt=""/>
+	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/emergencia.png" alt=""/>
 	                			</a>
 	                		</div>
 	                	</div>
@@ -293,7 +293,7 @@
 	                	<div class="pi-gallery-item">
 	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/calendario.png" alt=""/>
+	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/calendario.png" alt=""/>
 	                			</a>
 	                		</div>
 	                	</div>
@@ -306,14 +306,14 @@
 	                	<div class="pi-gallery-item">
 	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/rumbera.jpg" alt=""/>
+	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/rumbera.jpg" alt=""/>
 	                			</a>
 	                		</div>
 	                	</div>
 	                	<div class="pi-gallery-item">
 	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/anunciate.jpg" alt=""/>
+	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/anunciate.jpg" alt=""/>
 	                			</a>
 	                		</div>
 	                	</div>
@@ -325,7 +325,7 @@
 	                	<div class="pi-gallery-item">
 	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/google.jpg" alt=""/>
+	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/google.jpg" alt=""/>
 	                			</a>
 	                		</div>
 	                	</div>
