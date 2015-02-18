@@ -1,0 +1,33 @@
+﻿
+Conflicts:
+	content/content_home.php
+	footer.php
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 5 and 2 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   build/css/style.css
+#	modified:   content/content_home.php
+#	modified:   footer.php
+#	new file:   img/enlaces/destacados.png
+#	new file:   img/enlaces/mas-gustado.png
+#	new file:   img/enlaces/mas-visitados.png
+#	new file:   img/enlaces/ofertas-visitadas.png
+#	new file:   img/enlaces/recientes.png
+#	new file:   img/enlaces/super-oferta-recientes.png
+#	new file:   scripts/jquery.sharrre.min.js
+#
+
