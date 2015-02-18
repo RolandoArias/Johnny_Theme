@@ -153,38 +153,7 @@
 
 </div>
 <div class="pi-scroll-top-arrow" data-scroll-to="0"></div>
-
-<<<<<<< HEAD
-
  
-=======
-<script src="3dParty/jquery-1.11.0.min.js"></script>
-<script src="3dParty/bootstrap/js/bootstrap.min.js"></script>
-<script src="3dParty/bootstrap-chosen/chosen.jquery.js"></script>
-<script src="3dParty/jquery.touchSwipe.min.js"></script>
-<script src="3dParty/gauge.min.js"></script>
-<script src="3dParty/inview.js"></script>
-<script src="3dParty/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-<script src="3dParty/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-<script src="3dParty/requestAnimationFramePolyfill.min.js"></script>
-<script src="3dParty/jquery.scrollTo.min.js"></script>
-<script src="3dParty/colorbox/jquery.colorbox-min.js"></script>
-<script src="3dParty/jquery.gmap.min.js"></script>
-<script src="scripts/pi.global.js"></script>
-<script src="scripts/pi.slider.js"></script>
-<script src="scripts/pi.init.slider.js"></script>
-<script src="3dParty/jquery.easing.1.3.js"></script>
-<script src="scripts/pi.counter.js"></script>
-<script src="scripts/pi.init.counter.js"></script>
-<script src="scripts/pi.parallax.js"></script>
-<script src="scripts/pi.init.parallax.js"></script>
-<script src="scripts/pi.direxionate.js"></script>
-<script src="scripts/typeahead.bundle.js"></script>
-<script src="scripts/sly.min.js"></script>
-<script src="scripts/horizontal.js"></script>
-<script src="scripts/jquery.raty.js"></script>
-<script src="scripts/jquery.sharrre.min.js"></script>
->>>>>>> origin/master
 <script type="text/javascript">
 $(document).ready(function() {
     var substringMatcher = function(strs) {
