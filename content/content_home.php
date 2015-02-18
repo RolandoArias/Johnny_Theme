@@ -119,7 +119,7 @@
 			                <div>
 			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
 			                		<a href="#"><img src="img/enlaces/destacados.png" alt=""></a>
->>>>>>> origin/master
+ 
 			                		<div class="pi-img-overlay pi-img-overlay-darker">
 			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 			                				<a href="#" class="pi-link-white">Anuncios Destacados</a>
