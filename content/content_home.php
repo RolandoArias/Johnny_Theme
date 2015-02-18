@@ -49,9 +49,9 @@
 				<div class="">
  
 					<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-				    	<a href="#"><img src="img_external/gallery/bg_macbook.png" alt=""></a>
+				    	<a href="#"><img src="assets/images/gallery/bg_macbook.png" alt=""></a>
 				    	<div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
-                            <a href="#"><img src="img_external/gallery/3.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/gallery/3.jpg" alt=""></a>
 				    	</div>
 				    </div>
 				    <div style="margin-top: 10px;">
@@ -86,7 +86,7 @@
 			                <div>
 			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
  
-			                		<a href="#"><img src="img/enlaces/mas-gustado.png" alt=""></a>
+			                		<a href="#"><img src="assets/images/enlaces/mas-gustado.png" alt=""></a>
 			                		<div class="pi-img-overlay pi-img-overlay-darker">
 			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 			                				<a href="#" class="pi-link-white">Anuncios Mas Gustados</a>
@@ -102,7 +102,7 @@
 			                <!-- Portfolio item -->
 			                <div>
 			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-			                		<a href="#"><img src="img/enlaces/mas-visitados.png" alt=""></a>
+			                		<a href="#"><img src="assets/images/enlaces/mas-visitados.png" alt=""></a>
 			                		<div class="pi-img-overlay pi-img-overlay-darker">
 			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 			                				<a href="#" class="pi-link-white">Anuncios Mas Visitados</a>
@@ -118,7 +118,7 @@
 			                <!-- Portfolio item -->
 			                <div>
 			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-			                		<a href="#"><img src="img/enlaces/destacados.png" alt=""></a>
+			                		<a href="#"><img src="assets/images/enlaces/destacados.png" alt=""></a>
  
 			                		<div class="pi-img-overlay pi-img-overlay-darker">
 			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
@@ -136,7 +136,7 @@
 			                <!-- Portfolio item -->
 			                <div>
 			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-			                		<a href="#"><img src="img/enlaces/recientes.png" alt=""></a>
+			                		<a href="#"><img src="assets/images/enlaces/recientes.png" alt=""></a>
 			                		<div class="pi-img-overlay pi-img-overlay-darker">
 			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 			                				<a href="#" class="pi-link-white">Anuncios Recientes</a>
@@ -152,7 +152,7 @@
 			                <!-- Portfolio item -->
 			                <div>
 			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-			                		<a href="#"><img src="img/enlaces/super-oferta-recientes.png" alt=""></a>
+			                		<a href="#"><img src="assets/images/enlaces/super-oferta-recientes.png" alt=""></a>
 			                		<div class="pi-img-overlay pi-img-overlay-darker">
 			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 			                				<a href="#" class="pi-link-white">Super Ofertas Recientes</a>
@@ -168,7 +168,7 @@
 			                <!-- Portfolio item -->
 			                <div>
 			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-			                		<a href="#"><img src="img/enlaces/ofertas-visitadas.png" alt=""></a>
+			                		<a href="#"><img src="assets/images/enlaces/ofertas-visitadas.png" alt=""></a>
 			                		<div class="pi-img-overlay pi-img-overlay-darker">
 			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 			                				<a href="#" class="pi-link-white">Super Ofertas Mas Visitadas</a>
