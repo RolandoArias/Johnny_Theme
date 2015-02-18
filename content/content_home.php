@@ -47,15 +47,7 @@
 			<!-- Portfolio item -->
 			<div class="Beautiful Morning pi-gallery-item isotope-item" style="background-color: rgba(255, 0, 0, 0.13);padding-top: 10px;">
 				<div class="">
-<<<<<<< HEAD
-					<a href="#"><img src="assets/images/gallery/sensuality-at-the-sea.jpg" alt=""></a>
-				    <div style="margin-top: 37px;">
-						<h5 class="pi-weight-600 pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-			            	<a href="#" class="pi-link-white">Nombre de Producto</a>
-			            </h5>
-			            <h5 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-			            	<a href="#" class="pi-link-white">$ 1500.00</a>
-=======
+ 
 					<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
 				    	<a href="#"><img src="img_external/gallery/bg_macbook.png" alt=""></a>
 				    	<div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
@@ -70,7 +62,7 @@
 			            <p class="pi-margin-top-minus-5 pi-no-margin">Ciudad/Estado </p>
 			            <h5 class="pi-weight-700 pi-uppercasepi-margin-top-10 pi-letter-spacing pi-text-shadow">
 			            	$ 1500.00
->>>>>>> origin/master
+ 
 			            </h5>
 						<ul class="pi-caption-links ">
 							<li><i class="icon-tag"></i><a href="#">APPLE</a>, <a href="#">Lapto</a></li>
@@ -93,9 +85,7 @@
 			                <!-- Portfolio item -->
 			                <div>
 			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-<<<<<<< HEAD
-			                		<a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
-=======
+ 
 			                		<a href="#"><img src="img/enlaces/mas-gustado.png" alt=""></a>
 			                		<div class="pi-img-overlay pi-img-overlay-darker">
 			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
@@ -141,88 +131,7 @@
 			                </div>
 			                <!-- End portfolio item -->
 			            </li>
-<<<<<<< HEAD
-		                <li>
-		                	<!-- Portfolio item -->
-		                	<div>
-		                		<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-		                			<a href="#"><img src="assets/images/gallery/sailing.jpg" alt=""></a>
-		                			<div class="pi-img-overlay pi-img-overlay-darker">
-		                				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-		                					<a href="#" class="pi-link-white">Sailing</a>
-		                				</h6>
-		                				<p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-		                				<ul class="pi-caption-links pi-margin-bottom-20">
-		                					<li><i class="icon-tag"></i><a href="#">Travel</a>, <a href="#">Lifestyle</a></li>
-		                				</ul>
-		                				<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
-		                			</div>
-		                		</div>
-		                		<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
-		                	</div>
-		                	<!-- End portfolio item -->
-		                </li>
-		                <li>
-		                	<!-- Portfolio item -->
-		                	<div>
-		                		<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-		                			<a href="#"><img src="assets/images/gallery/sailing.jpg" alt=""></a>
-		                			<div class="pi-img-overlay pi-img-overlay-darker">
-		                				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-		                					<a href="#" class="pi-link-white">Sailing</a>
-		                				</h6>
-		                				<p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-		                				<ul class="pi-caption-links pi-margin-bottom-20">
-		                					<li><i class="icon-tag"></i><a href="#">Travel</a>, <a href="#">Lifestyle</a></li>
-		                				</ul>
-		                				<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
-		                			</div>
-		                		</div>
-		                		<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
-		                	</div>
-		                	<!-- End portfolio item -->
-		                </li>
-		                <li>
-		                	<!-- Portfolio item -->
-		                	<div>
-		                		<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-		                			<a href="#"><img src="assets/images/gallery/sailing.jpg" alt=""></a>
-		                			<div class="pi-img-overlay pi-img-overlay-darker">
-		                				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-		                					<a href="#" class="pi-link-white">Sailing</a>
-		                				</h6>
-		                				<p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-		                				<ul class="pi-caption-links pi-margin-bottom-20">
-		                					<li><i class="icon-tag"></i><a href="#">Travel</a>, <a href="#">Lifestyle</a></li>
-		                				</ul>
-		                				<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
-		                			</div>
-		                		</div>
-		                		<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
-		                	</div>
-		                	<!-- End portfolio item -->
-		                </li>
-		                <li>
-		                	<!-- Portfolio item -->
-		                	<div>
-		                		<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-		                			<a href="#"><img src="assets/images/gallery/sailing.jpg" alt=""></a>
-		                			<div class="pi-img-overlay pi-img-overlay-darker">
-		                				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-		                					<a href="#" class="pi-link-white">Sailing</a>
-		                				</h6>
-		                				<p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-		                				<ul class="pi-caption-links pi-margin-bottom-20">
-		                					<li><i class="icon-tag"></i><a href="#">Travel</a>, <a href="#">Lifestyle</a></li>
-		                				</ul>
-		                				<a href="#" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
-		                			</div>
-		                		</div>
-		                		<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
-		                	</div>
-		                	<!-- End portfolio item -->
-		                </li>
-=======
+ 
 			             <li>
 			                <!-- Portfolio item -->
 			                <div>
@@ -271,8 +180,7 @@
 			                </div>
 			                <!-- End portfolio item -->
 			            </li>
-		                
->>>>>>> origin/master
+ 
 			        </ul>
 			    </div>
 			    <div class="controls center">
@@ -297,7 +205,7 @@
 		<div class="pi-gallery-item">
 			<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 				<a href="#">
-					<img style="height: 200px;" src="img_external/gallery/google.jpg" alt=""/>
+					<img style="height: 200px;" src="assets/images/gallery/google.jpg" alt=""/>
 				</a>
 			</div>
 		</div>
@@ -334,20 +242,14 @@
 		<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
 			Enlaces
 		</h3>
-<<<<<<< HEAD
+ 
 			<div class="pi-gallery-item">
 				<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 					<a href="#">
 						<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/farmacia.png" alt=""/>
 					</a>
 				</div>
-=======
-		<div class="pi-gallery-item">
-			<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
-				<a href="#">
-					<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/farmacia.png" alt=""/>
-				</a>
->>>>>>> origin/master
+ 
 			</div>
 		</div>
 	<!-- Search -->
@@ -442,38 +344,9 @@
 			</div>
 	</div>
 	<!-- End categories -->
-<<<<<<< HEAD
-    <!-- Categories -->
-	<div class="pi-sidebar-block pi-padding-bottom-20">
-		
-		<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
-		Google
-		</h3>
-		<div class="pi-gallery-item">
-			<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
-				<a href="#">
-					<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/google.jpg" alt=""/>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="pi-sidebar-block pi-padding-bottom-20">
-		
-		<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
-		Google
-		</h3>
-			<div class="pi-gallery-item">
-				<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
-					<a href="#">
-						<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/google.jpg" alt=""/>
-					</a>
-				</div>
-			</div>
-	</div>
-	<!-- End categories -->				
-=======
-	
->>>>>>> origin/master
+ 
+     			
+ 
 				</div>
 			</div>
 		</div>

@@ -51,9 +51,10 @@ module.exports = function(grunt) {
               'build/plugins/jquery.scrollTo.min.js',
               'build/plugins/colorbox/jquery.colorbox-min.js',
               'build/plugins/jquery.easing.1.3.js',              
-              'build/plugins/jquery.gmap.min.js'
+              'build/plugins/jquery.gmap.min.js',
+              'build/js/jquery.sharrre.min.js'
           ],
-          dest: 'assets/js/plugins.js',
+          dest: 'assets/js/plugins.js'
         },
         script: {          
             src: [
@@ -68,17 +69,12 @@ module.exports = function(grunt) {
             'build/js/typeahead.bundle.js',
             'build/js/sly.min.js',
             'build/js/horizontal.js',
-            'build/js/jquery.raty.js',
-            //'build/js/jquery.sharrre.min.js'
+            'build/js/jquery.raty.js'
             ],
             dest: 'assets/js/script.js'
         },
     },
-    cssmin: {
-      css: {
-        src: 'assets/css/style.css',
-        dest: 'assets/css/style.min.css'
-      },
+    cssmin: {      
       css_plugins: {
         src: 'assets/css/style_plugins.css',
         dest: 'assets/css/style_plugins.min.css'

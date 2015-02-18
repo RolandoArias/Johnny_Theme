@@ -15987,7 +15987,14 @@ text-align: center;
 margin-left: -14px;
 height: 27px;
 }
-
+#example5{
+  float:left;
+  margin:68px 25% 0 25%;
+}
+.sharrre .button{
+  float:left;
+  width:60px;
+}
 .background{
 background-image: url(../images/bg/headerbgdark.png);
 }
