@@ -45,13 +45,13 @@
 
 <div class="pi-header-sticky">
 <!-- Header row -->
-<div class="background pi-section-w pi-section-white pi-shadow-bottom pi-row-reducible" style="background-image: url(img/bg/headerbgdark.png);">
+<div class="background pi-section-w pi-section-white pi-shadow-bottom pi-row-reducible" style="background-image: url(assets/images/bg/headerbgdark.png);">
 <div class="pi-section pi-row-lg">
 
 
 <!-- Logo --> 
 <div class="pi-row-block pi-row-block-logo">
-	<a href="index.html"><img src="img/logo.png" alt=""></a>
+	<a href="index.html"><img src="assets/images/logo.png" alt=""></a>
 </div>
 <!-- End logo -->
 

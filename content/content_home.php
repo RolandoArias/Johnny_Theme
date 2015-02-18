@@ -19,9 +19,9 @@
 			<div class="Beautiful Morning pi-gallery-item isotope-item" style="background-color: rgba(255, 0, 0, 0.13);padding-top: 10px;">
 				<div class="">
   				    <div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-				    	<a href="#"><img src="img_external/gallery/pelu1.jpg" alt=""></a>
+				    	<a href="#"><img src="assets/images/gallery/pelu1.jpg" alt=""></a>
 				    	<div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
-                            <a href="#"><img src="img_external/gallery/primera-imagen.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/gallery/primera-imagen.jpg" alt=""></a>
 				    	</div>
 				    </div>
 				    <div style="margin-top: 10px;">
@@ -49,7 +49,7 @@
 			<!-- Portfolio item -->
 			<div class="Beautiful Morning pi-gallery-item isotope-item" style="height: 442px;background-color: rgba(255, 0, 0, 0.13);padding-top: 10px;">
 				<div class="">
-					<a href="#"><img src="img_external/gallery/sensuality-at-the-sea.jpg" alt=""></a>
+					<a href="#"><img src="assets/images/gallery/sensuality-at-the-sea.jpg" alt=""></a>
 				    <div style="margin-top: 37px;">
 						<h5 class="pi-weight-600 pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 			            	<a href="#" class="pi-link-white">Nombre de Producto</a>
@@ -84,7 +84,7 @@
 			                <!-- Portfolio item -->
 			                <div>
 			                	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-			                		<a href="#"><img src="img_external/gallery/bread-and-spikes.jpg" alt=""></a>
+			                		<a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
 			                		<div class="pi-img-overlay pi-img-overlay-darker">
 			                			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 			                				<a href="#" class="pi-link-white">Bread and spikes</a>
@@ -107,7 +107,7 @@
 		                	<!-- Portfolio item -->
 		                	<div>
 		                		<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-		                			<a href="#"><img src="img_external/gallery/sailing.jpg" alt=""></a>
+		                			<a href="#"><img src="assets/images/gallery/sailing.jpg" alt=""></a>
 		                			<div class="pi-img-overlay pi-img-overlay-darker">
 		                				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 		                					<a href="#" class="pi-link-white">Sailing</a>
@@ -127,7 +127,7 @@
 		                	<!-- Portfolio item -->
 		                	<div>
 		                		<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-		                			<a href="#"><img src="img_external/gallery/sailing.jpg" alt=""></a>
+		                			<a href="#"><img src="assets/images/gallery/sailing.jpg" alt=""></a>
 		                			<div class="pi-img-overlay pi-img-overlay-darker">
 		                				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 		                					<a href="#" class="pi-link-white">Sailing</a>
@@ -147,7 +147,7 @@
 		                	<!-- Portfolio item -->
 		                	<div>
 		                		<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-		                			<a href="#"><img src="img_external/gallery/sailing.jpg" alt=""></a>
+		                			<a href="#"><img src="assets/images/gallery/sailing.jpg" alt=""></a>
 		                			<div class="pi-img-overlay pi-img-overlay-darker">
 		                				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 		                					<a href="#" class="pi-link-white">Sailing</a>
@@ -167,7 +167,7 @@
 		                	<!-- Portfolio item -->
 		                	<div>
 		                		<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-		                			<a href="#"><img src="img_external/gallery/sailing.jpg" alt=""></a>
+		                			<a href="#"><img src="assets/images/gallery/sailing.jpg" alt=""></a>
 		                			<div class="pi-img-overlay pi-img-overlay-darker">
 		                				<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
 		                					<a href="#" class="pi-link-white">Sailing</a>
@@ -211,7 +211,7 @@
 			<div class="pi-gallery-item">
 				<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 					<a href="#">
-						<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/farmacia.png" alt=""/>
+						<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/farmacia.png" alt=""/>
 					</a>
 				</div>
 			</div>
@@ -234,7 +234,7 @@
 			<div class="pi-gallery-item">
 				<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 					<a href="#">
-						<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/emergencia.png" alt=""/>
+						<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/emergencia.png" alt=""/>
 					</a>
 				</div>
 			</div>
@@ -257,7 +257,7 @@
 			<div class="pi-gallery-item">
 				<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 					<a href="#">
-						<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/calendario.png" alt=""/>
+						<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/calendario.png" alt=""/>
 					</a>
 				</div>
 			</div>
@@ -272,14 +272,14 @@
 			<div class="pi-gallery-item">
 				<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 					<a href="#">
-						<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/rumbera.jpg" alt=""/>
+						<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/rumbera.jpg" alt=""/>
 					</a>
 				</div>
 			</div>
 			<div class="pi-gallery-item">
 				<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 					<a href="#">
-						<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/anunciate.jpg" alt=""/>
+						<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/anunciate.jpg" alt=""/>
 					</a>
 				</div>
 			</div>
@@ -294,7 +294,7 @@
 		<div class="pi-gallery-item">
 			<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 				<a href="#">
-					<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/google.jpg" alt=""/>
+					<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/google.jpg" alt=""/>
 				</a>
 			</div>
 		</div>
@@ -307,7 +307,7 @@
 			<div class="pi-gallery-item">
 				<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
 					<a href="#">
-						<img style="height: 200px; border-radius: 10px;" src="img_external/gallery/google.jpg" alt=""/>
+						<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/google.jpg" alt=""/>
 					</a>
 				</div>
 			</div>

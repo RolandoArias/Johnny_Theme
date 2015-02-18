@@ -32,7 +32,7 @@
                             <!-- Post content -->
                             <div style="float:left; width: 35%;">
                                 <a href="#">
-                                    <img src="img/ejemplo/logo.png" alt="" style="float:left; width: 95%;">
+                                    <img src="assets/images/logo.png" alt="" style="float:left; width: 95%;">
                                 </a>
                             </div>
                             <p>

@@ -1,9 +1,8 @@
 <!-- - - - - - - - - - SECTION SEARCH- - - - - - - - - -->
-
 <div class="pi-section-w pi-shadow-inside-top pi-section-dark">
-	<div class="pi-texture" style="background: url(img/hexagon.png) repeat;"></div>
+	<div class="pi-texture" style="background: url(assets/images/hexagon.png) repeat;"></div>
 	<div class="pi-section pi-padding-top-0 pi-padding-bottom-30">
-		<!-- Row -->
+	<!-- Row -->
 		<div class="pi-row">
 			<!-- Col 9 -->
 			<div class="pi-col-sm-12 pi-center-text-xs">							

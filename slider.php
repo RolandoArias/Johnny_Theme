@@ -6,7 +6,7 @@
 	<!-- SLIDE -->
 	<li data-transition="fade" data-slotamount="1" data-masterspeed="1000" >
 		<!-- MAIN IMAGE -->
-		<img src="img_external/revolution-slider/back-0.jpg"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+		<img src="assets/images/revolution-slider/back-0.jpg"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 		<!-- LAYERS -->
 
 		<!-- LAYER NR. 1-->
@@ -19,7 +19,7 @@
 			 data-endspeed="300"
 			 data-endeasing="Power1.easeIn"
 			 data-captionhidden="on"
-			 style="z-index: 3"><img src="img_external/revolution-slider/logo_slider.png" alt="">
+			 style="z-index: 3"><img src="assets/images/revolution-slider/logo_slider.png" alt="">
 		</div> 
 
 		<!-- LAYER NR. 2
@@ -32,7 +32,7 @@
 			 data-endspeed="300"
 			 data-endeasing="Power1.easeIn"
 			 data-captionhidden="on"
-			 style="z-index: 4"><img src="img_external/revolution-slider/young-men.png" alt="">
+			 style="z-index: 4"><img src="assets/images/revolution-slider/young-men.png" alt="">
 		</div> -->
 
 		<!-- LAYER NR. 3 -->
@@ -77,7 +77,7 @@
 	<!-- SLIDE  -->
 	<li data-transition="fade" data-slotamount="1" data-masterspeed="1000" >
 		<!-- MAIN IMAGE -->
-		<img src="img_external/revolution-slider/back-8.jpg"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+		<img src="assets/images/revolution-slider/back-8.jpg"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 		<!-- LAYERS -->
 
 		<!-- LAYER NR. 1 -->
@@ -90,7 +90,7 @@
 			 data-endspeed="300"
 			 data-endeasing="Power1.easeIn"
 			 data-captionhidden="on"
-			 style="z-index: 3"><img src="img_external/revolution-slider/pad-hands.png" alt="">
+			 style="z-index: 3"><img src="assets/images/revolution-slider/pad-hands.png" alt="">
 		</div>
 
 		<!-- LAYER NR. 2 -->
@@ -103,7 +103,7 @@
 			 data-endspeed="0"
 			 data-endeasing="Power1.easeIn"
 			 data-captionhidden="on"
-			 style="z-index: 4"><img src="img_external/revolution-slider/drawing-boy-1.png" alt="">
+			 style="z-index: 4"><img src="assets/images/revolution-slider/drawing-boy-1.png" alt="">
 		</div>
 
 		<!-- LAYER NR. 3 -->
@@ -116,7 +116,7 @@
 			 data-endspeed="0"
 			 data-endeasing="Power1.easeIn"
 			 data-captionhidden="on"
-			 style="z-index: 5"><img src="img_external/revolution-slider/drawing-boy-2.png" alt="">
+			 style="z-index: 5"><img src="assets/images/revolution-slider/drawing-boy-2.png" alt="">
 		</div>
 
 		<!-- LAYER NR. 4 -->
@@ -161,7 +161,7 @@
 	<!-- SLIDE  -->
 	<li data-transition="fade" data-slotamount="1" data-masterspeed="1000" >
 		<!-- MAIN IMAGE -->
-		<img src="img_external/revolution-slider/back-10.jpg"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+		<img src="assets/images/revolution-slider/back-10.jpg"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 		<!-- LAYERS -->
 
 		<!-- LAYER NR. 1 -->
@@ -174,7 +174,7 @@
 			 data-endspeed="300"
 			 data-endeasing="Power1.easeIn"
 			 data-captionhidden="on"
-			 style="z-index: 3"><img src="img_external/revolution-slider/men-head.png" alt="">
+			 style="z-index: 3"><img src="assets/images/revolution-slider/men-head.png" alt="">
 		</div>
 
 		<!-- LAYER NR. 2 -->
@@ -187,7 +187,7 @@
 			 data-endspeed="300"
 			 data-endeasing="Power1.easeIn"
 			 data-captionhidden="on"
-			 style="z-index: 4"><img src="img_external/revolution-slider/women-head.png" alt="">
+			 style="z-index: 4"><img src="assets/images/revolution-slider/women-head.png" alt="">
 		</div>
 
 		<!-- LAYER NR. 3 -->
@@ -200,7 +200,7 @@
 			 data-endspeed="300"
 			 data-endeasing="Power1.easeIn"
 			 data-captionhidden="on"
-			 style="z-index: 5"><img src="img_external/revolution-slider/light-bulb-3.png" alt="">
+			 style="z-index: 5"><img src="assets/images/revolution-slider/light-bulb-3.png" alt="">
 		</div>
 
 		<!-- LAYER NR. 4 -->
@@ -213,7 +213,7 @@
 			 data-endspeed="300"
 			 data-endeasing="Power1.easeIn"
 			 data-captionhidden="on"
-			 style="z-index: 6"><img src="img_external/revolution-slider/light-bulb-4.png" alt="">
+			 style="z-index: 6"><img src="assets/images/revolution-slider/light-bulb-4.png" alt="">
 		</div>
 
 		<!-- LAYER NR. 5 -->

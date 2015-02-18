@@ -27,7 +27,7 @@
 			<div class="pi-clearfix pi-hidden-lg-only pi-hidden-md-only"></div>
 
 			<!-- Col 4 -->
-			<div class="pi-col-md-3 pi-col-sm-6 pi-padding-bottom-30" style="background-image: url('img/map-base.png'); background-position: 50% 55px; background-repeat: no-repeat;">
+			<div class="pi-col-md-3 pi-col-sm-6 pi-padding-bottom-30" style="background-image: url('assets/image/map-base.png'); background-position: 50% 55px; background-repeat: no-repeat;">
 
 				<h6 class="pi-margin-bottom-25 pi-weight-700 pi-uppercase pi-letter-spacing">
 					Contactenos
@@ -138,7 +138,7 @@
 		<!-- End social icons -->
 
 		<!-- Footer logo -->
-		<div class="pi-row-block pi-row-block-logo"><a href="#"><img style="max-height: 46px;"src="img/logo.png" alt=""></a></div>
+		<div class="pi-row-block pi-row-block-logo"><a href="#"><img style="max-height: 46px;" src="assets/image/logo.png" alt=""></a></div>
 		<!-- End footer logo -->
 
 		<!-- Text -->
@@ -154,23 +154,7 @@
 </div>
 <div class="pi-scroll-top-arrow" data-scroll-to="0"></div>
 
-<script src="3dParty/jquery-1.11.0.min.js"></script>
-<script src="3dParty/bootstrap/js/bootstrap.min.js"></script>
-<script src="3dParty/bootstrap-chosen/chosen.jquery.js"></script>
-<script src="3dParty/jquery.touchSwipe.min.js"></script>
-<script src="3dParty/gauge.min.js"></script>
-<script src="3dParty/inview.js"></script>
-<script src="3dParty/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-<script src="3dParty/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-<script src="3dParty/requestAnimationFramePolyfill.min.js"></script>
-<script src="3dParty/jquery.scrollTo.min.js"></script>
-<script src="3dParty/colorbox/jquery.colorbox-min.js"></script>
-<script src="3dParty/jquery.gmap.min.js"></script>
-<script src="scripts/pi.global.js"></script>
-<script src="scripts/pi.slider.js"></script>
-<script src="scripts/pi.init.slider.js"></script>
-<script src="3dParty/jquery.easing.1.3.js"></script>
-<script src="assets/js/script.js"></script>
+
  
 <script type="text/javascript">
 $(document).ready(function() {

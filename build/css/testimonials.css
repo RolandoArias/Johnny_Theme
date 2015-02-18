@@ -110,7 +110,7 @@
 .pi-section-base .pi-testimonial-content:after,
 .pi-section-dark .pi-testimonial-content:after,
 .pi-section-parallax .pi-testimonial-content:after {
-  background: url(../img/triangle-testimonials.png) no-repeat 50% 0;
+  background: url(../images/triangle-testimonials.png) no-repeat 50% 0;
 }
 .pi-section-white .pi-testimonial-content.pi-testimonial-content-quotes:before,
 .pi-section-grey .pi-testimonial-content.pi-testimonial-content-quotes:before,
@@ -136,7 +136,7 @@
 .pi-section-base .pi-testimonial-content.pi-testimonial-white:after,
 .pi-section-dark .pi-testimonial-content.pi-testimonial-white:after,
 .pi-section-parallax .pi-testimonial-content.pi-testimonial-white:after {
-  background: url(../img/triangle-testimonials-white.png) no-repeat 50% 0;
+  background: url(../images/triangle-testimonials-white.png) no-repeat 50% 0;
 }
 .pi-section-white .pi-testimonial-content.pi-testimonial-white.pi-testimonial-content-quotes:before,
 .pi-section-grey .pi-testimonial-content.pi-testimonial-white.pi-testimonial-content-quotes:before,
@@ -162,7 +162,7 @@
 .pi-section-base .pi-testimonial-content.pi-testimonial-base:after,
 .pi-section-dark .pi-testimonial-content.pi-testimonial-base:after,
 .pi-section-parallax .pi-testimonial-content.pi-testimonial-base:after {
-  background: url(../img/triangle-testimonials-green.png) no-repeat 50% 0;
+  background: url(../images/triangle-testimonials-green.png) no-repeat 50% 0;
 }
 .pi-section-white .pi-testimonial-content.pi-testimonial-base.pi-testimonial-content-quotes:before,
 .pi-section-grey .pi-testimonial-content.pi-testimonial-base.pi-testimonial-content-quotes:before,
@@ -188,7 +188,7 @@
 .pi-section-base .pi-testimonial-content.pi-testimonial-dark:after,
 .pi-section-dark .pi-testimonial-content.pi-testimonial-dark:after,
 .pi-section-parallax .pi-testimonial-content.pi-testimonial-dark:after {
-  background: url(../img/triangle-testimonials-dark.png) no-repeat 50% 0;
+  background: url(../images/triangle-testimonials-dark.png) no-repeat 50% 0;
 }
 .pi-section-white .pi-testimonial-content.pi-testimonial-dark.pi-testimonial-content-quotes:before,
 .pi-section-grey .pi-testimonial-content.pi-testimonial-dark.pi-testimonial-content-quotes:before,
@@ -202,12 +202,12 @@
 .pi-section-base .pi-testimonial-author .pi-icon-man,
 .pi-section-dark .pi-testimonial-author .pi-icon-man,
 .pi-section-parallax .pi-testimonial-author .pi-icon-man {
-  background: url(../img/icon-man.png) no-repeat 0 0;
+  background: url(../images/icon-man.png) no-repeat 0 0;
 }
 .pi-section-white .pi-testimonial-author .pi-icon-woman,
 .pi-section-grey .pi-testimonial-author .pi-icon-woman,
 .pi-section-base .pi-testimonial-author .pi-icon-woman,
 .pi-section-dark .pi-testimonial-author .pi-icon-woman,
 .pi-section-parallax .pi-testimonial-author .pi-icon-woman {
-  background: url(../img/icon-woman.png) no-repeat 0 0;
+  background: url(../images/icon-woman.png) no-repeat 0 0;
 }
