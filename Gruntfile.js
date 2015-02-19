@@ -82,7 +82,8 @@ module.exports = function(grunt) {
     },
     uglify: {
       options: {
-        banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
+        banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n', 
+          reload: true   
       },
       build: {
         src: ['build/js/pi.global.js',
@@ -107,10 +108,14 @@ module.exports = function(grunt) {
       }
     },
        watch: {
-      js: {
-        files: ['build/js/*.js'],
-        tasks:['copy','concat','cssmin','uglify']
-      },      
+        js: {
+          options: {
+            reload: true
+          },
+          files: ['build/js/*.js'],
+          tasks:['uglify']
+        },
+
     }
   });
 

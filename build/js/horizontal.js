@@ -2,7 +2,7 @@ jQuery(function($){
 	'use strict';
 
 	// -------------------------------------------------------------
-	//   Basic Navigation
+	//   Basic
 	// -------------------------------------------------------------
 	(function () {
 		var $frame  = $('#basic');
@@ -11,7 +11,7 @@ jQuery(function($){
 
 		// Call Sly on frame
 		$frame.sly({
-			horizontal: 1,
+			horizontal: 8,
 			itemNav: 'basic',
 			smart: 1,
 			activateOn: 'click',
