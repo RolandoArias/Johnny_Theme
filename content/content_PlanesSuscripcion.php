@@ -249,7 +249,8 @@
 		            			<!-- Table row -->
 		            			<tr>
 		            				<td>
-		            					<i class="icon-play pi-tooltip" data-placement="right" title="" data-original-title="Magnam aliquam"></i>
+		            					<i class="icon-play
+		            					 pi-tooltip" data-placement="right" title="" data-original-title="Magnam aliquam"></i>
 		            				    Precio
 		            				</td>
 		            				<td class="pi-text-center">

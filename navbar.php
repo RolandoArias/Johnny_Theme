@@ -9,7 +9,7 @@
 <div class="pi-section-w pi-section-dark">
 	<div class="pi-section pi-row-sm">
 
-		<!-- Accede -->
+		<!-- Accede --> 
 		<div class="pi-row-block pi-row-block-txt">
 				<button href="#" class="btn-h"><i class="icon-lock pi-icon-base pi-icon-square icon-color"></i>Accede</button>
 		</div>
@@ -58,19 +58,12 @@
 <!-- Menu -->
 <div class="pi-row-block pi-pull-right">
 	<ul class="pi-simple-menu pi-has-hover-border pi-full-height pi-hidden-sm">
-		<li class="pi-has-dropdown active"><a href="index.php"><span>Inicio</span></a>
-			<ul class="pi-submenu" style="background-color: rgba(0, 0, 0, 0.5);">
-				<li><a href="index-2.php"><span>Inicio 2</span></a></li>
-				<li><a href="index-3.php"><span>Inicio 3</span></a></li>
-			    <li><a href="product-gratis.php"><span>Plan gratis detallde del comercio</span></a></li>
-			</ul>
-		</li>
+		<li class="pi-dropdown"><a href="index.php"><span>Inicio</span></a></li>
 		<li class=""><a href="abouts.php"><span>¿Quiénes Somos?</span></a></li>
 		<li class="pi-has-dropdown"><a href="#"><span>¿Qué Ofrecemos?</span></a>
 			<ul class="pi-submenu" style="background-color: rgba(0, 0, 0, 0.5);">
-				<li><a href="directorio.php"><span>Directorio Comercial</span></a></li>
+				<li><a href="planSuscripcion.php"><span>Directorio Comercial</span></a></li>
 				<li><a href="#"><span>Espacio Publicitario</span></a></li>
-			    <li><a href="comercio-oro.php"><span>Plan Oro Comercio</span></a></li>
 			</ul>
 		</li>
 		<li class=""><a href="contact.php"><span>Contáctenos</span></a></li>
@@ -104,7 +97,7 @@
 					<li><a href="#"><span>¿Quiénes Somos?</span></a></li>
 					<li><a href="#"><span>¿Qué Ofrecemos?</span></a>
                         <ul>     
-							<li><a href="#"><span>Directorio Comercial</span></a></li>
+							<li><a href="planSuscripcion.php"><span>Directorio Comercial</span></a></li>
 							<li><a href="#"><span>Espacio Publicitario</span></a></li>
 					    </ul> 
 					</li>
