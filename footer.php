@@ -138,7 +138,7 @@
 		<!-- End social icons -->
 
 		<!-- Footer logo -->
-		<div class="pi-row-block pi-row-block-logo"><a href="#"><img style="max-height: 46px;" src="assets/image/logo.png" alt=""></a></div>
+		<div class="pi-row-block pi-row-block-logo"><a href="#"><img style="max-height: 46px;" src="assets/images/logo.png" alt=""></a></div>
 		<!-- End footer logo -->
 
 		<!-- Text -->

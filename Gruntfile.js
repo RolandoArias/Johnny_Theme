@@ -30,7 +30,8 @@ module.exports = function(grunt) {
                 'build/css/animations.css',                                
                 'build/css/typehead.css',                                
                 'build/css/horizontal.css',                                
-                'build/plugins/fontello/css/fontello.css'                
+                'build/plugins/fontello/css/fontello.css',
+                'build/css/tables.css'              
             ],
             dest: 'assets/css/style_plugins.css'
         },     
