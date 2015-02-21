@@ -16,7 +16,7 @@
                                     <h3 class="pi-uppercase pi-padding-5" style="font-size: 150%;">
 	                	            	Peluquería Beauty Hellums, C.A.
 	                	            </h3>
-                    	        </div>
+                    	        </div> 
                     	        <div class="pi-col-md-12 pi-no-padding">
                                     <div class="pi-col-md-4 pi-padding-10">
                                         <a href="#">
@@ -34,8 +34,7 @@
                                         </ul>
                     	            </div>
                                 </div>
-                                <div class="pi-row">
-                                    <div class="pi-col-md-12">
+                                    <div class="pi-col-md-12 clearfix pi-no-padding">
                                         <div class="pi-col-md-3">
                                         	<div class="pi-col-md-6 pi-no-padding pi-margin-bottom-10">
                                                 <a href="#">
@@ -49,7 +48,7 @@
                                                 </ul>
 	                			            </div>
                     	                </div>
-                    	                <div class="pi-col-ls-3">
+                    	                <div class="pi-col-md-3">
                                            <div class="pi-col-md-6 pi-no-padding pi-margin-bottom-10">
                                                 <a href="#">
 	                			        	        <img style="height: 70px; width: 90px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
@@ -80,7 +79,6 @@
                     	                </div> 
                     	            </div>
                     	        </div>
-                    	    </div>
                     	    <div class="pi-row">
                                 <div class="pi-col-md-12" style="background: #515291">
                                     <ul class="pi-meta">
