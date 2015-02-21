@@ -6,12 +6,38 @@
 	<!-- SLIDE -->
 	<li data-transition="fade" data-slotamount="1" data-masterspeed="1000" >
 		<!-- MAIN IMAGE -->
-		<img src="assets/images/revolution-slider/back-0.jpg"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+		<img src="assets/images/revolution-slider/fondo-muneca.jpg"  alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
 		<!-- LAYERS -->
+ 
+		<!-- LAYER NR. 1-->
+		<div class="tp-caption sfl fadeout"
+			 data-x="150"
+			 data-y="0"
+			 data-speed="800"
+			 data-start="1500"
+			 data-easing="Power4.easeOut"
+			 data-endspeed="300"
+			 data-endeasing="Power1.easeIn"
+			 data-captionhidden="on"
+			 style="z-index: 3"><img style="height: 400px;" src="assets/images/revolution-slider/fondo-punto.png" alt="">
+		</div> 
 
 		<!-- LAYER NR. 1-->
 		<div class="tp-caption sfl fadeout"
-			 data-x="650"
+			 data-x="150"
+			 data-y="5"
+			 data-speed="800"
+			 data-start="1500"
+			 data-easing="Power4.easeOut"
+			 data-endspeed="300"
+			 data-endeasing="Power1.easeIn"
+			 data-captionhidden="on"
+			 style="z-index: 3"><img style="height: 400px; width: 400px;" src="assets/images/revolution-slider/Girl.png" alt="">
+		</div> 
+
+		<!-- LAYER NR. 1-->
+		<div class="tp-caption sfl fadeout"
+			 data-x="600"
 			 data-y="90"
 			 data-speed="800"
 			 data-start="1500"
@@ -37,7 +63,7 @@
 
 		<!-- LAYER NR. 3 -->
 		<div class="tp-caption sft str"
-			 data-x="625" data-hoffset="0"
+			 data-x="500" data-hoffset="0"
 			 data-y="27"
 			 data-speed="500"
 			 data-start="1000"
@@ -55,7 +81,7 @@
 			 data-start="2600"
 			 data-easing="Back.easeInOut"
 			 data-endspeed="300"
-			 style="z-index: 6; font-size: 20px; color: #fff; font-weight: 300; line-height: 28px; background: rgba(33, 37, 43, 0.8); padding: 12px 16px; border-radius: 3px;">
+			 style="z-index: 6; font-size: 25px; color: #fff; font-weight: 500; line-height: 28px; padding: 12px 16px;">
 			 Llegó Para quedarse...
 		</div>
 

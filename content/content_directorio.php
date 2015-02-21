@@ -49,7 +49,7 @@
                                                 </ul>
 	                			            </div>
                     	                </div>
-                    	                <div class="pi-col-md-3">
+                    	                <div class="pi-col-ls-3">
                                            <div class="pi-col-md-6 pi-no-padding pi-margin-bottom-10">
                                                 <a href="#">
 	                			        	        <img style="height: 70px; width: 90px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
