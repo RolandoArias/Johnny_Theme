@@ -7,11 +7,11 @@
 				<div class="pi-page">
 					<h3 class=" pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
                         Súper Ofertas
-                    </h3>
+                    </h3> 
                     <!-- - - - - - - - - - SECTION - - - - - - - - - -->
                     <div class="pi-section-white piCaptions">
                     	<div class="pi-section pi-no-padding pi-padding-15">
-                    		<div class="pi-row" style="border: 1px solid #515291;">
+                    		<div class="pi-row" style="border: 1px solid #515291; background-color: white; color: orange;">
                     	        <div class="pi-no-padding pi-no-margin" style="background: url(assets/images/bg/bg-title.png) #515291 repeat-x top left;">
                                     <h3 class="pi-uppercase pi-padding-5" style="font-size: 150%;">
 	                	            	<a href="product-detalle.php">PC Apple</a>
@@ -22,7 +22,7 @@
                                         <a href="product-detalle.php">
 	                			        	<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
 	                			        </a>
-	                			        <h3 class="pi-uppercase pi-no-padding pi-center" style="font-size: 150%;">
+	                			        <h3  class="pi-color-orange pi-uppercase pi-no-padding pi-center" style="font-size: 150%;">
 	                	            	   $1500.00
 	                	                </h3> 
                     	            </div>
@@ -31,11 +31,11 @@
                                           Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación...                           
                                         </p>
                                         <ul class="pi-meta">
-                                        	<li><i class="icon-right-open"></i> Nombre del comercio</li><br>
-                                        	<li><i class="icon-right-open"></i> Ciudad > Estado</li><br>
-                                        	<li><i class="icon-right-open"></i> 100 visitas</li><br>
-                                        	<li><i class="icon-right-open"></i> Categoría</li><br>
-                                        	<li><i class="icon-tag"></i> <a href="">Tag-1</a>, <a href="">Tag-2</a></li>
+                                        	<li  class="pi-color-orange"><i class="icon-right-open"></i> Nombre del comercio</li><br>
+                                        	<li  class="pi-color-orange"><i class="icon-right-open"></i> Ciudad > Estado</li><br>
+                                        	<li  class="pi-color-orange"><i class="icon-right-open"></i> 100 visitas</li><br>
+                                        	<li  class="pi-color-orange"><i class="icon-right-open"></i> Categoría</li><br>
+                                        	<li  class="pi-color-orange"><i class="icon-tag"></i> <a href=""  class="pi-color-orange">Tag-1</a>, <a href=""  class="pi-color-orange">Tag-2</a></li>
                                         </ul>
                                         <a href="#"><button class="btn-blue pi-right pi-no-margin pi-padding-10">Mas Información<i class="icon-right-open"></i></button> </a> 
                     	            </div>

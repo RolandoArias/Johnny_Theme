@@ -117,94 +117,7 @@
                     	            </div>
                                 </div>
                     	    </div>
-    		                <div class="pi-row pi-liquid-col-xs-2 pi-liquid-col-sm-3 pi-gallery pi-gallery-small-margins pi-text-center isotope">
-                    	    	<h3 class="pi-uppercase pi-has-bg">
-                    	    		Mis otros productos
-                    	    	</h3>
-			                    <!-- Portfolio item -->
-			                    <div class="Beautiful Morning pi-gallery-item isotope-item" style="height: 442px;background-color: rgba(255, 0, 0, 0.13);padding-top: 10px;">
-			                    	<div class="">
-  			                    	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-			                    		<a href="#"><img src="assets/images/gallery/pelu1.jpg" alt=""></a>
-			                    		<div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
-                                           <a href="#"><img src="assets/images/gallery/primera-imagen.jpg" alt=""></a>
-			                    		</div>
-			                    	</div>
-			                    		
-			                    	<div style="margin-top: 37px;">
-			                    			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-			                    				<a href="#" class="pi-link-white">Sensuality at the sea</a>
-			                    			</h6>
-			                    			
-			                    			<p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-                    
-			                    			<ul class="pi-caption-links pi-margin-bottom-20">
-			                    				<li><i class="icon-tag"></i><a href="#">Beautiful</a>, <a href="#">Morning</a></li>
-			                    			</ul>
-			                    			
-			                    			<a href="product.php" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
-			                    		</div></div>
-			                    	<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
-			                    </div>
-			                    <!-- End portfolio item -->
-			                    
-			                    <!-- Portfolio item -->
-			                    <div class="Beautiful Morning pi-gallery-item isotope-item" style="height: 442px;background-color: rgba(255, 0, 0, 0.13);padding-top: 10px; border-left: 5px solid rgb(250, 167, 50);">
-			                    	<div class="">
-                      
-  			                    	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-			                    		<a href="#"><img src="assets/images/gallery/2.jpg" alt=""></a>
-			                    		<div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
-                                           <a href="#"><img src="assets/images/gallery/2-2.jpg" alt=""></a>
-			                    		</div>
-			                    	</div>
-			                    		
-			                    	<div style="margin-top: 37px;">
-			                    			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-			                    				<a href="#" class="pi-link-white">Sensuality at the sea</a>
-			                    			</h6>
-			                    			
-			                    			<p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-                    
-			                    			<ul class="pi-caption-links pi-margin-bottom-20">
-			                    				<li><i class="icon-tag"></i><a href="#">Beautiful</a>, <a href="#">Morning</a></li>
-			                    			</ul>
-			                    			
-			                    			<a href="product.php" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
-			                    		</div></div>
-			                    	<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
-			                    </div>
-			                    <!-- End portfolio item -->
-			                    
-			                    <!-- Portfolio item -->
-			                    <div class="Beautiful Morning pi-gallery-item isotope-item" style="height: 442px;background-color: rgba(255, 0, 0, 0.13);padding-top: 10px; border-left: 5px solid rgb(250, 167, 50);">
-			                    	<div class="">
-                      
-  			                    	<div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-			                    		<a href="#"><img src="assets/images/gallery/3.jpg" alt=""></a>
-			                    		<div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
-                                           <a href="#"><img src="assets/images/gallery/3-3.jpg" alt=""></a>
-			                    		</div>
-			                    	</div>
-			                    		
-			                    	<div style="margin-top: 37px;">
-			                    			<h6 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-			                    				<a href="#" class="pi-link-white">Sensuality at the sea</a>
-			                    			</h6>
-			                    			
-			                    			<p class="pi-margin-top-minus-5 pi-margin-bottom-15">Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-                    
-			                    			<ul class="pi-caption-links pi-margin-bottom-20">
-			                    				<li><i class="icon-tag"></i><a href="#">Beautiful</a>, <a href="#">Morning</a></li>
-			                    			</ul>
-			                    			
-			                    			<a href="product.php" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing">View project</a>
-			                    		</div></div>
-			                    	<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
-			                    </div>
-			                    <!-- End portfolio item -->
-                    	    </div>
-                    	    <div class="pi-row pi-padding-top-20">
+                    	    <div class="pi-row">
                                 <div class="pi-col-md-12">
                                     <div class="pi-col-6"> 
                                           <h4 class="pi-pull-left">Dejanos tu comentario</h4>
@@ -213,8 +126,8 @@
                                          <h5 class="pi-pull-right"> 0 comentarios</h5>
                                     </div>
                                 </div>
-                            </div>  
-                    	    <div class="pi-row">
+                            </div>                   
+                            <div class="pi-row">
                                 <div class="pi-col-md-12">
                                     <!-- Comment form -->
                                     <form role="form" action="handlers/formContact.php" data-captcha="no" class="pi-contact-form">
@@ -236,6 +149,59 @@
                                     <!-- End comment form -->
                                 </div>
                             </div>
+    		                <div class="pi-row pi-liquid-col-xs-2 pi-liquid-col-sm-3 pi-gallery pi-gallery-small-margins pi-text-center isotope">
+                    	    	<h3 class="pi-uppercase pi-has-bg pi-text-left">
+                    	    		Mis otros productos
+                    	    	</h3>
+			                    <!-- - - - - - - - - - SECTION - - - - - - - - - -->
+                    <div class="pi-section-white piCaptions">
+                    	<div class="pi-section pi-no-padding pi-padding-15">
+                    		<div class="pi-row" style="border: 1px solid #515291; background-color: white; color: orange;">
+                    	        <div class="pi-no-padding pi-no-margin" style="background: url(assets/images/bg/bg-title.png) #515291 repeat-x top left;">
+                                    <h3 class="pi-uppercase pi-padding-5 pi-text-left" style="font-size: 150%;">
+	                	            	<a href="product-detalle.php">PC Apple</a>
+	                	            </h3>
+                    	        </div>
+                    	        <div class="pi-col-md-12 pi-no-padding">
+                                    <div class="pi-col-md-4 pi-padding-10">
+                                        <a href="product-detalle.php">
+	                			        	<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
+	                			        </a>
+	                			        <h3  class="pi-color-orange pi-uppercase pi-no-padding pi-center" style="font-size: 150%;">
+	                	            	   $1500.00
+	                	                </h3> 
+                    	            </div>
+                    	            <div class="pi-col-md-8 pi-padding-10">
+                                        <p class="pi-text-left">
+                                          Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación...                           
+                                        </p>
+                                        <ul class="pi-meta pi-text-left">
+                                        	<li  class="pi-color-orange"><i class="icon-right-open"></i> Nombre del comercio</li><br>
+                                        	<li  class="pi-color-orange"><i class="icon-right-open"></i> Ciudad > Estado</li><br>
+                                        	<li  class="pi-color-orange"><i class="icon-right-open"></i> 100 visitas</li><br>
+                                        	<li  class="pi-color-orange"><i class="icon-right-open"></i> Categoría</li><br>
+                                        	<li  class="pi-color-orange"><i class="icon-tag"></i> <a href=""  class="pi-color-orange">Tag-1</a>, <a href=""  class="pi-color-orange">Tag-2</a></li>
+                                        </ul>
+                                        <a href="#"><button class="btn-blue pi-right pi-no-margin pi-padding-10">Mas Información<i class="icon-right-open"></i></button> </a> 
+                    	            </div>
+                                </div>
+                    	    </div>
+                    	    <div class="pi-row">
+                                <div class="pi-col-md-12" style="background: #515291">
+                                    <ul class="pi-meta">
+                                    	<li><i class="icon-facebook"></i><a href="#">Recomendar en Facebook</a></li>
+                                    	<li><i class="icon-twitter"></i><a href="#">Recomendar en Twitter</a></li>
+                                    	<li><i class="icon-plus"></i><a href="#">Recomendar en Google Plus</a></li>
+                                    </ul>
+                    	        </div>
+                    	    </div>
+                        </div>
+                    </div>
+                    <!-- - - - - - - - - - END SECTION - - - - - - - - - -->
+			                    
+			                    
+                    	    </div>
+                    	    
                         </div>
                     </div>
                     <!-- - - - - - - - - - END SECTION - - - - - - - - - -->

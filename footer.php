@@ -27,34 +27,6 @@
 			<div class="pi-clearfix pi-hidden-lg-only pi-hidden-md-only"></div>
 
 			<!-- Col 4 -->
-			<div class="pi-col-md-3 pi-col-sm-6 pi-padding-bottom-30" style="background-image: url('assets/image/map-base.png'); background-position: 50% 55px; background-repeat: no-repeat;">
-
-				<h6 class="pi-margin-bottom-25 pi-weight-700 pi-uppercase pi-letter-spacing">
-					Contactenos
-				</h6>
-
-				<!-- Contact info -->
-				<ul class="pi-list-with-icons pi-list-big-margins">
-					<li>
-						<span class="pi-bullet-icon"><i class="icon-mail"></i></span>
-						<strong>Correo Electronico:</strong> <a href="mailto:hello@pitheme.com">info@direxionate.com</a>
-					</li>
-
-					<li>
-						<span class="pi-bullet-icon"><i class="icon-clock"></i></span>
-						Lunes - Viernes:
-						<br>Por la Mañana: <strong> 8:00 am - 12:00 pm </strong>
-						<br>Por la Tarde: <strong> 1:00 pm - 5:00 pm</strong>
-						<br>
-						Sabado - Domingo: <strong>Cerrado</strong>
-					</li>
-
-				</ul>
-				<!-- End contact info -->
-
-			</div>
-			<!-- End col 4 -->
-			<!-- Col 4 -->
 			<div class="pi-col-md-3 pi-col-sm-6 pi-padding-bottom-30">
 
 				<h6 class="pi-margin-bottom-25 pi-weight-700 pi-uppercase pi-letter-spacing">
@@ -89,7 +61,67 @@
 			<!-- End col 4 -->
 
 			<!-- Col 4 -->
+			<div class="pi-col-md-3 pi-col-sm-6 pi-padding-bottom-30" style="background-image: url('assets/image/map-base.png'); background-position: 50% 55px; background-repeat: no-repeat;">
+
+				<h6 class="pi-margin-bottom-25 pi-weight-700 pi-uppercase pi-letter-spacing">
+					Escribenos
+				</h6>
+
+				<!-- Contact form -->
+				<form role="form" action="handlers/formContact.php" data-captcha="no" class="pi-contact-form">
+					<div class="pi-error-container"></div>
+					<div class="pi-row pi-grid-small-margins">
+						<div class="pi-col-2xs-6">
+							<div class="form-group">
+								<div class="pi-input-with-icon">
+									<div class="pi-input-icon"><i class="icon-user"></i></div>
+									<input class="form-control form-control-name" id="exampleInputName"
+										   placeholder="Nombre">
+								</div>
+							</div>
+						</div>
+						<div class="pi-col-2xs-6">
+							<div class="form-group">
+								<div class="pi-input-with-icon">
+									<div class="pi-input-icon"><i class="icon-mail"></i></div>
+									<input type="email" class="form-control form-control-email" id="exampleInputEmail"
+										   placeholder="E-mail">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="form-group">
+						<div class="pi-input-with-icon">
+							<div class="pi-input-icon"><i class="icon-pencil"></i></div>
+							<textarea class="form-control form-control-comments" id="exampleInputMessage"
+									  placeholder="Mensaje"
+									  rows="3"></textarea>
+						</div>
+					</div>
+					<p>
+						<button type="submit" class="btn pi-btn-base pi-btn-no-border">Enviar</button>
+					</p>
+				</form>
+				<!-- End contact form -->
+
+			</div>
+			<!-- End col 4 -->
+
+			<!-- Col 4 -->
 			<div class="pi-col-md-3 pi-col-sm-6 pi-padding-bottom-30">
+
+				<h6 class="pi-margin-bottom-25 pi-weight-700 pi-uppercase pi-letter-spacing">
+					Contactenos
+				</h6>
+
+				<!-- Contact info -->
+				<ul class="pi-list-with-icons pi-list-big-margins">
+					<li>
+						<span class="pi-bullet-icon"><i class="icon-mail"></i></span>
+						<strong>Correo Electronico:</strong> <a href="mailto:hello@pitheme.com">info@direxionate.com</a>
+					</li>
+				</ul>
+				<!-- End contact info -->
 
 				<h6 class="pi-margin-bottom-25 pi-weight-700 pi-uppercase pi-letter-spacing">
 					Condiciones de uso y politicas de seguridad
@@ -138,7 +170,7 @@
 		<!-- End social icons -->
 
 		<!-- Footer logo -->
-		<div class="pi-row-block pi-row-block-logo"><a href="#"><img style="max-height: 46px;" src="assets/images/logo.png" alt=""></a></div>
+		<div class="pi-row-block pi-row-block-logo pi-margin-top-20"><a href="#"><img style="max-height: 46px;" src="assets/images/logo.png" alt=""></a></div>
 		<!-- End footer logo -->
 
 		<!-- Text -->

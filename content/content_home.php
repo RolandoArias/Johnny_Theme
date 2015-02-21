@@ -10,35 +10,7 @@
 <div class="pi-section-w pi-section-white piCaptions">
 	<div class="pi-section pi-padding-bottom-60 pi-section pi-padding-bottom-60 pi-padding-top-15">
 		<!-- Portfolio gallery -->
-		<div id="isotope" class="pi-row pi-liquid-col-xs-2 pi-liquid-col-sm-3 pi-gallery pi-gallery-small-margins pi-text-left isotope">
 			
-			<h3 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15" style="color: rgb(0, 109, 204);">
-			    Comercios Relevantes
-		    </h3>
-			<!-- Portfolio item -->
-			<div class="Beautiful Morning pi-gallery-item isotope-item" style="background-color: rgba(255, 0, 0, 0.13);padding-top: 10px;">
-				<div class="">
-  				    <div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
-				    	<a href="#"><img src="assets/images/gallery/pelu1.jpg" alt=""></a>
-				    	<div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
-                            <a href="#"><img src="assets/images/gallery/primera-imagen.jpg" alt=""></a>
-				    	</div>
-				    </div>
-				    <div style="margin-top: 10px;">
-						<h5 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
-							<a href="#" class="pi-link-white">Nombre del Comercio</a>
-						</h5>
-						<p class="pi-margin-top-minus-5 pi-no-margin">Ciudad/Estado </p>
-						<p class=" pi-no-margin"><a href="#">Categoria</a></p>
-						<ul class="pi-caption-links">
-							<li>RIF: #########</li>
-						</ul>
-						<a href="product.php" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing pi-right pi-no-margin pi-margin-bottom-10">Ver Comercio</a>
-					</div>
-				</div>
-				<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
-			</div>
-		</div>	
 		<div id="isotope" class="pi-row pi-padding-top-20 pi-liquid-col-xs-2 pi-liquid-col-sm-3 pi-gallery pi-gallery-small-margins pi-text-left isotope">
 			<!-- End portfolio item -->
 			<h3 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15" style="color: rgb(0, 109, 204);">
@@ -73,6 +45,35 @@
 				<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
 			</div>
 			<!-- End portfolio item -->
+		</div>
+		<div id="isotope" class="pi-row pi-liquid-col-xs-2 pi-liquid-col-sm-3 pi-gallery pi-gallery-small-margins pi-text-left isotope">
+			
+			<h3 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15" style="color: rgb(0, 109, 204);">
+			    Comercios Relevantes
+		    </h3>
+			<!-- Portfolio item -->
+			<div class="Beautiful Morning pi-gallery-item isotope-item" style="background-color: rgba(255, 0, 0, 0.13);padding-top: 10px;">
+				<div class="">
+  				    <div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
+				    	<a href="#"><img src="assets/images/gallery/pelu1.jpg" alt=""></a>
+				    	<div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
+                            <a href="#"><img src="assets/images/gallery/primera-imagen.jpg" alt=""></a>
+				    	</div>
+				    </div>
+				    <div style="margin-top: 10px;">
+						<h5 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
+							<a href="#" class="pi-link-white">Nombre del Comercio</a>
+						</h5>
+						<p class="pi-margin-top-minus-5 pi-no-margin">Ciudad/Estado </p>
+						<p class=" pi-no-margin"><a href="#">Categoria</a></p>
+						<ul class="pi-caption-links">
+							<li>RIF: #########</li>
+						</ul>
+						<a href="product.php" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing pi-right pi-no-margin pi-margin-bottom-10">Ver Comercio</a>
+					</div>
+				</div>
+				<div class="pi-img-shadow-gap pi-shadow-effect8"></div>
+			</div>
 		</div>	
 		<div id="isotope" class="pi-row pi-padding-top-20 pi-liquid-col-xs-2 pi-liquid-col-sm-3 pi-gallery pi-gallery-small-margins pi-text-left isotope">
 			<h3 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15" style="color: rgb(0, 109, 204);">
@@ -344,14 +345,57 @@
 				</div>
 			</div>
 	</div>
-	<!-- End categories -->
+	<div class="pi-sidebar-block pi-padding-bottom-20">
+	                	<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+	                	Ofertas Recientes
+	                	</h3>
+	                	<div class="pi-col-md-12 pi-clearfix">
+                            <div class="pi-col-md-4 pi-no-padding pi-margin-bottom-10">
+                               <a href="#">
+	              	              <img style="height: 60px; width: 100px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
+	                           </a>
+	                        </div>
+	                        <div class="pi-col-md-8 pi-no-padding">
+                                <ul class="pi-meta">
+                               	    <li>Comercio/Nombre de Super Oferta</li><br>
+                               	    <li>$ 1500.00</li>
+                                </ul>
+	                        </div>
+	                   </div>
+	                   <div class="pi-col-md-12 pi-clearfix">
+                            <div class="pi-col-md-4 pi-no-padding pi-margin-bottom-10">
+                               <a href="#">
+	              	              <img style="height: 80px; width: 100px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
+	                           </a>
+	                        </div>
+	                        <div class="pi-col-md-8 pi-no-padding">
+                                <ul class="pi-meta">
+                               	    <li>Comercio/Nombre de Super Oferta</li><br>
+                               	    <li>$ 1500.00</li>
+                                </ul>
+	                        </div>
+	                   </div>
+	                   <div class="pi-col-md-12 pi-clearfix">
+                            <div class="pi-col-md-4 pi-no-padding pi-margin-bottom-10">
+                               <a href="#">
+	              	              <img style="height: 80px; width: 100px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
+	                           </a>
+	                        </div>
+	                        <div class="pi-col-md-8 pi-no-padding">
+                                <ul class="pi-meta">
+                               	    <li>Comercio/Nombre de Super Oferta</li><br>
+                               	    <li>$ 1500.00</li>
+                                </ul>
+	                        </div>
+	                   </div>
+                    </div>
  
      			
  
 				</div>
 			</div>
 		</div>
-<div class="pi-padding-bottom-10 pi-center" style="position: absolute; bottom: 0px; margin-left: 156px;">
+        <div class="pi-padding-bottom-10 pi-center" style="position: absolute; bottom: 0px; margin-left: 156px;">
 		    <div class="google-adense-90"><img src="assets/images/addsen/addsen-top.jpg" alt=""></div>
 	    </div>
 	</div>
