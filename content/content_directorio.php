@@ -17,7 +17,7 @@
 	                	            	Peluquería Beauty Hellums, C.A.
 	                	            </h3>
                     	        </div> 
-                    	        <div class="pi-col-md-12 pi-no-padding">
+                    	        <div class="pi-col-md-12 pi-clearfix pi-no-padding">
                                     <div class="pi-col-md-4 pi-padding-10">
                                         <a href="#">
 	                			        	<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/farmacia.png" alt=""/>
@@ -34,51 +34,51 @@
                                         </ul>
                     	            </div>
                                 </div>
-                                    <div class="pi-col-md-12 clearfix pi-no-padding">
-                                        <div class="pi-col-md-3">
-                                        	<div class="pi-col-md-6 pi-no-padding pi-margin-bottom-10">
-                                                <a href="#">
-	                			        	        <img style="height: 70px; width: 90px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
-	                			                </a>
-	                			            </div>
-	                			            <div class="pi-col-md-6 pi-no-padding">
-                                                <ul class="pi-meta">
-                                        	       <li>Laptop DELL</li><br>
-                                        	       <li>$ 1500.00</li>
-                                                </ul>
-	                			            </div>
-                    	                </div>
-                    	                <div class="pi-col-md-3">
-                                           <div class="pi-col-md-6 pi-no-padding pi-margin-bottom-10">
-                                                <a href="#">
-	                			        	        <img style="height: 70px; width: 90px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
-	                			                </a>
-	                			            </div>
-	                			            <div class="pi-col-md-6 pi-no-padding">
-                                                <ul class="pi-meta">
-                                        	       <li>Laptop DELL</li><br>
-                                        	       <li>$ 1500.00</li>
-                                                </ul>
-	                			            </div> 
-                    	                </div>
-                    	                <div class="pi-col-md-3">
-                                            <div class="pi-col-md-6 pi-no-padding pi-margin-bottom-10">
-                                                <a href="#">
-	                			        	        <img style="height: 70px; width: 90px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
-	                			                </a>
-	                			            </div>
-	                			            <div class="pi-col-md-6 pi-no-padding">
-                                                <ul class="pi-meta">
-                                        	       <li>Laptop DELL</li><br>
-                                        	       <li>$ 1500.00</li>
-                                                </ul>
-	                			            </div>
-                    	                </div>
-                    	                <div class="pi-col-md-3 ">
-                                            <a href="#"><button class="btn-blue pi-padding-10 pi-margin-bottom-20">Ver Anuncio Completo<i class="icon-right-open"></i></button> </a> 
-                    	                </div> 
+                                <div class="pi-col-md-12">
+                                    <div class="pi-col-md-3">
+                                        <div class="pi-col-md-6 pi-no-padding pi-margin-bottom-10">
+                                            <a href="#">
+	                			        	    <img style="height: 70px; width: 90px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
+	                			            </a>
+	                			        </div>
+	                			        <div class="pi-col-md-6 pi-no-padding">
+                                            <ul class="pi-meta">
+                                        	    <li>Laptop DELL</li><br>
+                                        	    <li>$ 1500.00</li>
+                                            </ul>
+	                			        </div>
                     	            </div>
+                    	            <div class="pi-col-md-3">
+                                        <div class="pi-col-md-6 pi-no-padding pi-margin-bottom-10">
+                                            <a href="#">
+	                			                <img style="height: 70px; width: 90px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
+	                			            </a>
+	                			        </div>
+	                			        <div class="pi-col-md-6 pi-no-padding">
+                                            <ul class="pi-meta">
+                                                <li>Laptop DELL</li><br>
+                                                <li>$ 1500.00</li>
+                                            </ul>
+	                			        </div> 
+                    	            </div>
+                    	            <div class="pi-col-md-3">
+                                        <div class="pi-col-md-6 pi-no-padding pi-margin-bottom-10">
+                                            <a href="#">
+	                			                <img style="height: 70px; width: 90px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
+	                			            </a>
+	                			        </div>
+	                			        <div class="pi-col-md-6 pi-no-padding">
+                                            <ul class="pi-meta">
+                                                <li>Laptop DELL</li><br>
+                                                <li>$ 1500.00</li>
+                                            </ul>
+	                			        </div>
+                    	            </div>
+                    	            <div class="pi-col-md-3 ">
+                                        <a href="#"><button class="btn-blue pi-padding-10 pi-margin-bottom-20">Ver Anuncio Completo<i class="icon-right-open"></i></button> </a> 
+                    	            </div> 
                     	        </div>
+                    	    </div>
                     	    <div class="pi-row">
                                 <div class="pi-col-md-12" style="background: #515291">
                                     <ul class="pi-meta">
