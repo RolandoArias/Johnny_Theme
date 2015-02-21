@@ -190,6 +190,7 @@
 		    </div>
 		    <!-- End portfolio gallery -->
 	    </div>
+	    
     </div>
 </div>
 
@@ -350,6 +351,9 @@
 				</div>
 			</div>
 		</div>
-
+<div class="pi-padding-bottom-10 pi-center" style="position: absolute; bottom: 0px; margin-left: 156px;">
+		    <div class="google-adense-90"><img src="assets/images/addsen/addsen-top.jpg" alt=""></div>
+	    </div>
 	</div>
+
 </div>

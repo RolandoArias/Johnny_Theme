@@ -2,9 +2,9 @@
 <!-- Footer -->
 <!-- Widget area -->
 <div class="pi-section-w pi-border-bottom pi-border-top-light pi-section-dark">
-	<div class="pi-padding-10">
+	<!--<div class="pi-padding-10">
 		<div class="google-adense-90"></div>
-	</div>
+	</div>-->
 	<div class="pi-padding-bottom-10">
 
 		<!-- Row -->
