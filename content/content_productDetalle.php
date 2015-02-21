@@ -209,6 +209,30 @@
             </div>
 			<div class="pi-sidebar-wrapper pi-sidebar-wrapper-right pi-padding-10" style="background-color: rgb(0, 109, 204);">
 			    <div class="pi-sidebar pi-padding-top-10">
+                    <div class="pi-sidebar-block pi-padding-bottom-20">
+                        <div class="pi-gallery-item">
+                            <div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
+                                <a href="#">
+                                    <img style="height: 200px;" src="assets/images/gallery/google.jpg" alt=""/>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pi-sidebar-block pi-padding-bottom-20">
+                        <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                        Apoyanos
+                        </h3>
+                        <div class="pi-gallery-item">
+                            <div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
+                                <a href="#">
+                                    <img style="height: 50px; border-radius: 10px;" src="assets/images/addsen/img 4.png" alt=""/>
+                                </a>
+                            </div>
+                            <p class="pi-margin-bottom-10" style="text-align: right;">
+                                A 146 personas les gusto.
+                            </p>
+                        </div>
+                    </div>
 	                <div class="pi-sidebar-block pi-padding-bottom-20">
 	                	<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
 	                		Enlaces
@@ -284,18 +308,7 @@
 	                		</div>
 	                	</div>
 	                </div>
-	                <div class="pi-sidebar-block pi-padding-bottom-20">
-	                	<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
-	                	Google
-	                	</h3>
-	                	<div class="pi-gallery-item">
-	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
-	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/google.jpg" alt=""/>
-	                			</a>
-	                		</div>
-	                	</div>
-	                </div>			
+	                			
 				</div>
 			</div>
 		</div>
