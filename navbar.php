@@ -58,7 +58,13 @@
 <!-- Menu -->
 <div class="pi-row-block pi-pull-right">
 	<ul class="pi-simple-menu pi-has-hover-border pi-full-height pi-hidden-sm">
-		<li class="pi-dropdown"><a href="index.php"><span>Inicio</span></a></li>
+		<li class="pi-has-dropdown"><a href="index.php"><span>Inicio</span></a>
+            <ul class="pi-submenu" style="background-color: rgba(0, 0, 0, 0.5);">
+				<li><a href="product.php"><span>Comercio oro y plata</span></a></li>
+				<li><a href="product-bonce.php"><span>Comercio Bronce</span></a></li>
+				<li><a href="product-gratis.php"><span>Comercio Gratis</span></a></li>
+			</ul>
+		</li>
 		<li class=""><a href="abouts.php"><span>¿Quiénes Somos?</span></a></li>
 		<li class="pi-has-dropdown"><a href="#"><span>¿Qué Ofrecemos?</span></a>
 			<ul class="pi-submenu" style="background-color: rgba(0, 0, 0, 0.5);">

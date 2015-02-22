@@ -1,19 +1,19 @@
 <div class="pi-section-w pi-section-white">
 	<div class="pi-section pi-section-p pi-clearfix">
         <div class="pi-section-w pi-section-base pi-section-base-gradient">
-        <div class="pi-section-w pi-section-base pi-section-base-gradient">
-            <div class="pi-titlebar pi-titlebar-breadcrumb-right pi-titlebar-small pi-no-padding pi-padding-right-10">
-                <div style="color: rgb(0, 109, 204);">
-                    <h1 style="color: rgb(0, 109, 204);" class="pi-weight-600">Peluquería Beauty Hellums, C.A.</h1>
-                    <p class="pi-no-margin ">La belleza es nuestra especialidad</p> 
-                </div>
-                <div class="pi-breadcrumb">
-                    <ul>
-                        <li style="color: rgb(0, 109, 204);">Estado > Ciudad / RIf: X-##### / Subcategoria</li>
-                    </ul>
+            <div class="pi-section-w pi-section-base pi-section-base-gradient">
+                <div class="pi-titlebar pi-titlebar-breadcrumb-right pi-titlebar-small pi-no-padding  pi-padding-right-10">
+                    <div style="color: rgb(0, 109, 204);">
+                        <h1 style="color: rgb(0, 109, 204);" class="pi-weight-600 ">Peluquería Beauty Hellums, C.A.</h1>
+                        <p class="pi-no-margin ">La belleza es nuestra especialidad</p> 
+                    </div>
+                    <div class="pi-breadcrumb">
+                        <ul>
+                            <li style="color: rgb(0, 109, 204);">Estado > Ciudad / RIf: X-##### / Subcategoria</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-        </div>
         </div>
         <div class="pi-layout pi-layout-fluid-fixed">
 			<div class="pi-page-wrapper">
@@ -28,18 +28,11 @@
                                       $('#default').raty({ score: 2 });
                                     });
                                 </script> 
-                                <div class="pi-col-md-10 pi-no-padding pi-img-w">
+                                <div class="pi-col-md-12 pi-no-padding pi-img-w">
                                 	<a href="#">
                                 		<img src="assets/images/ejemplo/peluqueria-beauty-hellums-ca0_banner.jpg" alt="">
                                 	</a>
-                                </div>    
-                                <div class="pi-col-md-2">    
-                                    <div id="default" style="float: left; margin-right: 10px;"></div>
-                                    <a href=""><i class="icon-print" style="font-size: 20px;"></i></a><br>
-                                    <div class="pi-img-w">
-                                        <img src="assets/images/gallery/qr1.jpg" alt="">
-                                    </div> 
-                                </div>    
+                                </div>        
                             </div>
                             <div class="pi-row">
                                 <div class="pi-col-md-4 pi-img-w">
@@ -128,101 +121,6 @@
                 		    	<!-- End col 6 -->
                 		    </div>
                 		    <!-- End row -->
-                            <!-- Row -->
-                            <div class="pi-row">
-                                <div class="pi-col-md-12 pi-padding-bottom-10 pi-padding-right-30">
-                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg">
-                                          Galeria
-                                    </h3>     
-                                    <div class="wrap">
-                                        <div class="frame" id="basic" style="overflow: hidden;">
-                                            <ul class="clearfix pi-no-padding" style="transform: translateZ(0px) translateX(0px); width: 7068px; list-style-type: none;">
-                                                <li style="width: 304px;">
-                                                    <!-- Galery -->
-                                                    <div class="pi-img-w pi-img-round-corners pi-img-shadow-light pi-margin-bottom-25">
-                                                        <a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
-                                                    </div>
-                                                    <!-- End Galery-->
-                                                </li>
-                                                <li style="width: 304px;">
-                                                    <!-- Galery -->
-                                                    <div class="pi-img-w pi-img-round-corners pi-img-shadow-light pi-margin-bottom-25">
-
-                                                        <a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
-                                                    </div>
-                                                    <!-- End Galery-->
-                                                </li>
-                                                <li style="width: 304px;">
-                                                    <!-- Galery -->
-                                                    <div class="pi-img-w pi-img-round-corners pi-img-shadow-light pi-margin-bottom-25">
-                                                        <a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
-                                                    </div>
-                                                    <!-- End Galery-->
-                                                </li>
-                                                <li style="width: 304px;">
-                                                    <!-- Galery -->
-                                                    <div class="pi-img-w pi-img-round-corners pi-img-shadow-light pi-margin-bottom-25">
-                                                        <a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
-                                                    </div>
-                                                    <!-- End Galery-->
-                                                </li>
-                                                <li style="width: 304px;">
-                                                    <!-- Galery -->
-                                                    <div class="pi-img-w pi-img-round-corners pi-img-shadow-light pi-margin-bottom-25">
-                                                        <a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
-                                                    </div>
-                                                    <!-- End Galery-->
-                                                </li>
-                                                <li style="width: 304px;">
-                                                    <!-- Galery -->
-                                                    <div class="pi-img-w pi-img-round-corners pi-img-shadow-light pi-margin-bottom-25">
-                                                        <a href="#"><img src="assets/images/gallery/bread-and-spikes.jpg" alt=""></a>
-                                                    </div>
-                                                    <!-- End Galery-->
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="controls center">
-                                            <button class="btn_left prevPage disabled" disabled="" style="top: 58px;"><i class="icon-left-open"></i><i class="icon-chevron-left"></i></button>
-                                            <button class="btn_rigth nextPage" style="top: 58px;"><i class="icon-chevron-right"></i><i class="icon-right-open"></i></button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end Row -->
-                                                        <!-- end Row -->           
-                            <div class="pi-row">
-                                <div class="pi-col-md-12">
-                                    <div class="pi-col-6"> 
-                                          <h4 class="pi-pull-left">Dejanos tu comentario</h4>
-                                    </div>
-                                    <div class="pi-col-6"> 
-                                         <h5 class="pi-pull-right"> 0 comentarios</h5>
-                                    </div>
-                                </div>
-                            </div>                   
-                            <div class="pi-row">
-                                <div class="pi-col-md-12">
-                                    <!-- Comment form -->
-                                    <form role="form" action="handlers/formContact.php" data-captcha="no" class="pi-contact-form">
-                                       
-                                        <div class="pi-error-container"></div>
-                                        <div class="form-group"> 
-                                            <div class="pi-input-with-icon">
-                                                
-                                                <div class="pi-input-icon"><i class="icon-pencil"></i></div>
-                                                <textarea class="form-control form-control-comments" id="exampleInputMessage"
-                                                          placeholder="Comentar"
-                                                          rows="3"></textarea>
-                                            </div>
-                                        </div>
-                                        <p>
-                                            <button type="submit" class="btn pi-btn-base" style="border-color: black;">Enviar</button>
-                                        </p>
-                                    </form>
-                                    <!-- End comment form -->
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <!-- - - - - - - - - - END SECTION - - - - - - - - - -->
@@ -280,6 +178,11 @@
                 <div class="pi-sidebar pi-padding-top-10">
                     <div class="pi-sidebar-block pi-padding-bottom-20">
                         <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                        Vota!
+                        </h3>
+                        <div id="default" style="float: left; margin-right: 10px;"></div>
+                        <a href=""><i class="icon-print" style="font-size: 20px;"></i></a>
+                        <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
                         Busqueda
                         </h3>
                         <!-- form-contacto-->
@@ -335,28 +238,6 @@
                             </div>
                         </div>
                     </div>-->
-                    <div class="pi-sidebar-block pi-padding-bottom-20">
-                        <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
-                        Contacto
-                        </h3>
-                        <!-- form-contacto-->
-                        <div class="pi-sidebar-block pi-padding-bottom-5">
-                            <form class="pi-grouped-input pi-pi-search-form-wide">
-                                <div class="pi-padding-bottom-10">
-                                    <input type="text" class="form-control pi-input-wide" placeholder="e.g. Nombre" />
-                                </div>
-                                <div  class="pi-padding-bottom-10">
-                                    <input type="text" class="form-control pi-input-wide" placeholder="e.g. Correo Electronico" />
-                                </div>
-                                <div class="pi-padding-bottom-10">
-                                    <textarea class="form-control pi-input-wide" placeholder="e.g. Mensaje" /></textarea>
-                                </div>
-                                <div class="pi-padding-bottom-20">
-                                    <button type="submit" class="btn pi-btn-base" style="border-color: black;">Enviar</button>
-                                </div>           
-                            </form>
-                        </div>
-                        <!-- End form-contacto-->
                     </div>
                     <div class="pi-sidebar-block pi-padding-bottom-20"> 
                         <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
