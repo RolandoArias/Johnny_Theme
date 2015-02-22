@@ -157,9 +157,6 @@
                                                 <div class="">
                                                     <div class="pi-img-w pi-img-shadow pi-img-with-overlay pi-no-margin-bottom">
                                                         <a href="#"><img src="assets/images/gallery/bg_macbook.png" alt=""></a>
-                                                        <div class="pi-img-overlay pi-img-overlay-darker pi-no-padding">
-                                                            <a href="#"><img src="assets/images/gallery/3.jpg" alt=""></a>
-                                                        </div>
                                                     </div>
                                                     <div style="margin-top: 10px; margin-left: 10px;">
                                                         <h5 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
