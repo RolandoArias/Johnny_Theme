@@ -352,7 +352,7 @@
                             </div>
                         </div>
                     </div>
-                <!--<div class="pi-sidebar-block pi-padding-bottom-20">
+                    <div class="pi-sidebar-block pi-padding-bottom-20">
                         <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
                         NOTA
                         </h3>
@@ -363,7 +363,7 @@
                                 </a>
                             </div>
                         </div>
-                    </div>-->
+                    </div>
                     <div class="pi-sidebar-block pi-padding-bottom-20">
                         <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
                         Contacto
