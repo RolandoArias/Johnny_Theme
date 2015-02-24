@@ -194,7 +194,6 @@
                                                 <h5 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
                                                     <a href="#" class="pi-link-white">Nombre del Producto</a>
                                                 </h5>
-                                                <p class="pi-margin-top-minus-10 pi-no-margin"><a href="#" class="pi-link-white ">Nombre del comercio</a></p>
                                                 <p class="pi-margin-top-minus-5 pi-no-margin">Ciudad/Estado </p>
                                                 <h5 class="pi-weight-700 pi-uppercasepi-margin-top-10 pi-letter-spacing pi-text-shadow">
                                                     $ 1500.00
