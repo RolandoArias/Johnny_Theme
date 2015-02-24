@@ -36,13 +36,13 @@
                                    </a>
                                 </div>   
                                 <div class="pi-col-md-8">
-                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style="color: blue;">
                                         Sobre Nosotros
                                     </h3>
                                     <p>
                                       Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación.                            
                                     </p>
-                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style="color: blue;">
                                         Contacto
                                     </h3>
                                     <div class="pi-col-md-6">
@@ -64,7 +64,7 @@
                             <div class="pi-row">    
                                 <!-- Col 6 -->
                                 <div class="pi-col-md-6 pi-padding-bottom-10">                              
-                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style="color: blue;">
                                        Direccion
                                     </h3> 
                                     <p class="pi-margin-bottom-10">
@@ -74,7 +74,7 @@
                                 <!-- End col 6 -->
                                 <!-- Col 6 -->
                                 <div class="pi-col-xs-6 pi-padding-bottom-10">
-                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style="color: blue;">
                                        HORARIO
                                     </h3>                
                                     <p class="pi-margin-bottom-10">
@@ -88,7 +88,7 @@
                 		    <div class="pi-row">
                 		    	<!-- Col 6 -->
                 		    	<div class="pi-col-md-12 pi-padding-bottom-10">                					
-                		    		<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                		    		<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style="color: blue;">
                                            Forma de Pago
                                     </h3>
                                     <div class="pi-col-md-4"> 
@@ -119,8 +119,8 @@
                             <!-- Row -->
                             <div class="pi-row">
                                 <div class="pi-col-md-12 pi-padding-bottom-10 pi-padding-right-30">
-                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg">
-                                          Galeria
+                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue">
+                   style="color: blue;"                        Galeria
                                     </h3>     
                                     <div class="wrap">
                                         <div class="frame" id="basic" style="overflow: hidden;">
@@ -214,7 +214,7 @@
                         </div>
                     </div>
                     <!-- - - - - - - - - - END SECTION - - - - - - - - - -->
-                    <h3 class=" pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                    <h3 class=" pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style="color: blue;">
                         Nuestras Super Ofertas
                     </h3> 
                     <!-- - - - - - - - - - SECTION - - - - - - - - - -->
