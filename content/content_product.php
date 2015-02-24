@@ -227,7 +227,7 @@
                                     </div>
                                     <div class="pi-col-md-11">
                                         <h4 class="pi-pull-left">ING. Johnny Martinez</h4><br><br>
-                                        <p>
+                                        <p class="bg-color-text">
                                           Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación.                            
                                         </p>
                                     </div>
@@ -238,7 +238,7 @@
                                     </div>
                                     <div class="pi-col-md-11">
                                         <h4 class="pi-pull-left">ING. Johnny Martinez</h4><br><br>
-                                        <p>
+                                        <p class="bg-color-text">
                                           Somos los mejores en Servicios de peluquería.
                                         </p>
                                     </div>
