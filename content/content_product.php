@@ -22,24 +22,12 @@
                     <div class="pi-section-w pi-section-white piCaptions">
 	                    <div class="pi-padding-bottom-30 pi-padding-top-20">
                             <div class="pi-col-md-12 pi-no-padding">
-                                <script>
-                                    $(function() {
-                                      $.fn.raty.defaults.path = 'assets/images/';
-                                      $('#default').raty({ score: 2 });
-                                    });
-                                </script> 
-                                <div class="pi-col-md-10 pi-no-padding pi-img-w">
+                                 
+                                <div class="pi-col-md-12 pi-no-padding pi-img-w">
                                 	<a href="#">
                                 		<img src="assets/images/ejemplo/peluqueria-beauty-hellums-ca0_banner.jpg" alt="">
                                 	</a>
-                                </div>    
-                                <div class="pi-col-md-2">    
-                                    <div id="default" style="float: left; margin-right: 10px;"></div>
-                                    <a href=""><i class="icon-print" style="font-size: 20px;"></i></a><br>
-                                    <div class="pi-img-w">
-                                        <img src="assets/images/gallery/qr1.jpg" alt="">
-                                    </div> 
-                                </div>    
+                                </div>      
                             </div>
                             <div class="pi-row">
                                 <div class="pi-col-md-4 pi-img-w">
@@ -105,23 +93,23 @@
                                     </h3>
                                     <div class="pi-col-md-4"> 
                 		    		    <ul class="pi-meta">
-                                            <li><i class="icon-play"></i><a href="#">Efectivo</a></li><br>
-                                            <li><i class="icon-play"></i><a href="#">Tarjeta de Credito</a></li><br>
-                                            <li><i class="icon-play"></i><a href="#">Tarjeta de Debito</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="pi-col-md-4"> 
-                                        <ul class="pi-meta">
-                                            <li><i class="icon-play"></i><a href="#">Efectivo</a></li><br>
-                                            <li><i class="icon-play"></i><a href="#">Tarjeta de Credito</a></li><br>
-                                            <li><i class="icon-play"></i><a href="#">Tarjeta de Debito</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="pi-col-md-4"> 
-                                        <ul class="pi-meta">
-                                            <li><i class="icon-play"></i><a href="#">Efectivo</a></li><br>
-                                            <li><i class="icon-play"></i><a href="#">Tarjeta de Credito</a></li><br>
-                                            <li><i class="icon-play"></i><a href="#">Tarjeta de Debito</a></li>
+                                            <li><img src="build/images/pagos/1.jpg" style="width: 32px;" alt=""> Efectivo</li><br>
+                                            <li><img src="build/images/pagos/2.jpg" style="width: 32px;" alt=""> Tarjeta de Credito</li><br>
+                                            <li><img src="build/images/pagos/3.jpg" style="width: 32px;" alt=""> Tarjeta de Debito</a></li>
+                                        </ul> 
+                                    </div> 
+                                    <div class="pi-col-md-4">  
+                                        <ul class="pi-meta"> 
+                                            <li><img src="build/images/pagos/4.jpg" style="width: 32px;" alt=""> Efectivo</li><br>
+                                            <li><img src="build/images/pagos/5.jpg" style="width: 32px;" alt=""> Tarjeta de Credito/li><br>
+                                            <li><img src="build/images/pagos/1.jpg" style="width: 32px;" alt=""> Tarjeta de Debito</li>
+                                        </ul> 
+                                    </div> 
+                                    <div class="pi-col-md-4">  
+                                        <ul class="pi-meta"> 
+                                            <li><img src="build/images/pagos/2.jpg" style="width: 32px;" alt=""> Efectivo</li><br>
+                                            <li><img src="build/images/pagos/4.jpg" style="width: 32px;" alt=""> Tarjeta de Credito</li><br>
+                                            <li><img src="build/images/pagos/3.jpg" style="width: 32px;" alt=""> Tarjeta de Debito</li>
                                         </ul>
                                     </div>
                 		    	</div>
@@ -227,7 +215,7 @@
                     </div>
                     <!-- - - - - - - - - - END SECTION - - - - - - - - - -->
                     <h3 class=" pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
-                        Súper Ofertas
+                        Nuestras Super Ofertas
                     </h3> 
                     <!-- - - - - - - - - - SECTION - - - - - - - - - -->
                     <div class="pi-section-white piCaptions">
@@ -278,6 +266,20 @@
             </div>
             <div class="pi-sidebar-wrapper pi-sidebar-wrapper-right pi-padding-10 pi-margin-top-20" style="background-color: rgb(0, 109, 204);">
                 <div class="pi-sidebar pi-padding-top-10">
+                    <div class="pi-sidebar-block pi-padding-bottom-20"> 
+                        <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                            Vota!
+                        </h3>
+                        <div class="default"></div> 
+                    </div>
+                    <div class="pi-sidebar-block pi-padding-bottom-20">
+                        <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                            Codigo QR
+                        </h3>
+                        <div class="pi-center">
+                            <img src="assets/images/gallery/qr1.jpg" style="width: 50%;" alt="">
+                        </div> 
+                    </div>  
                     <div class="pi-sidebar-block pi-padding-bottom-20">
                         <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
                         Busqueda

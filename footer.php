@@ -188,6 +188,10 @@
  
 <script type="text/javascript">
 $(document).ready(function() {
+	$.fn.raty.defaults.path = 'assets/images';
+    $('.default').raty({ score: 4 });
+
+    
     var substringMatcher = function(strs) {
       return function findMatches(q, cb) {
         var matches, substrRegex;

@@ -41,13 +41,13 @@
                                    </a>
                                 </div>   
                                 <div class="pi-col-md-8">
-                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-color-blue pi-has-bg-blue pi-margin-bottom-15" style="color: blue !important;">
                                         Sobre Nosotros
                                     </h3>
                                     <p>
                                       Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación.                            
                                     </p>
-                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-color-blue pi-has-bg-blue pi-margin-bottom-15" style="color: blue !important;">
                                         Contacto
                                     </h3>
                                     <div class="pi-col-md-6">
@@ -69,7 +69,7 @@
                             <div class="pi-row">    
                                 <!-- Col 6 -->
                                 <div class="pi-col-md-6 pi-padding-bottom-10">                              
-                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-color-blue pi-has-bg-blue pi-margin-bottom-15" style="color: blue !important;">
                                        Direccion
                                     </h3> 
                                     <p class="pi-margin-bottom-10">
@@ -79,7 +79,7 @@
                                 <!-- End col 6 -->
                                 <!-- Col 6 -->
                                 <div class="pi-col-xs-6 pi-padding-bottom-10">
-                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-color-blue pi-has-bg-blue pi-margin-bottom-15" style="color: blue !important;">
                                        HORARIO
                                     </h3>                
                                     <p class="pi-margin-bottom-10">
@@ -90,41 +90,41 @@
                             </div>
                             <!-- End post content -->
                             <!-- Row -->
-                		    <div class="pi-row">
-                		    	<!-- Col 6 -->
-                		    	<div class="pi-col-md-12 pi-padding-bottom-10">                					
-                		    		<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                            <div class="pi-row">
+                                <!-- Col 6 -->
+                                <div class="pi-col-md-12 pi-padding-bottom-10">                                 
+                                    <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-color-blue pi-has-bg-blue pi-margin-bottom-15" style="color: blue !important;">
                                            Forma de Pago
                                     </h3>
                                     <div class="pi-col-md-4"> 
-                		    		    <ul class="pi-meta">
-                                            <li><i class="icon-play"></i><a href="#">Efectivo</a></li><br>
-                                            <li><i class="icon-play"></i><a href="#">Tarjeta de Credito</a></li><br>
-                                            <li><i class="icon-play"></i><a href="#">Tarjeta de Debito</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="pi-col-md-4"> 
                                         <ul class="pi-meta">
-                                            <li><i class="icon-play"></i><a href="#">Efectivo</a></li><br>
-                                            <li><i class="icon-play"></i><a href="#">Tarjeta de Credito</a></li><br>
-                                            <li><i class="icon-play"></i><a href="#">Tarjeta de Debito</a></li>
+                                            <li><img src="build/images/pagos/1.jpg" style="width: 32px;" alt=""> Efectivo</li><br>
+                                            <li><img src="build/images/pagos/2.jpg" style="width: 32px;" alt=""> Tarjeta de Credito</li><br>
+                                            <li><img src="build/images/pagos/3.jpg" style="width: 32px;" alt=""> Tarjeta de Debito</a></li>
+                                        </ul> 
+                                    </div> 
+                                    <div class="pi-col-md-4">  
+                                        <ul class="pi-meta"> 
+                                            <li><img src="build/images/pagos/4.jpg" style="width: 32px;" alt=""> Efectivo</li><br>
+                                            <li><img src="build/images/pagos/5.jpg" style="width: 32px;" alt=""> Tarjeta de Credito/li><br>
+                                            <li><img src="build/images/pagos/1.jpg" style="width: 32px;" alt=""> Tarjeta de Debito</li>
+                                        </ul> 
+                                    </div> 
+                                    <div class="pi-col-md-4">  
+                                        <ul class="pi-meta"> 
+                                            <li><img src="build/images/pagos/2.jpg" style="width: 32px;" alt=""> Efectivo</li><br>
+                                            <li><img src="build/images/pagos/4.jpg" style="width: 32px;" alt=""> Tarjeta de Credito</li><br>
+                                            <li><img src="build/images/pagos/3.jpg" style="width: 32px;" alt=""> Tarjeta de Debito</li>
                                         </ul>
                                     </div>
-                                    <div class="pi-col-md-4"> 
-                                        <ul class="pi-meta">
-                                            <li><i class="icon-play"></i><a href="#">Efectivo</a></li><br>
-                                            <li><i class="icon-play"></i><a href="#">Tarjeta de Credito</a></li><br>
-                                            <li><i class="icon-play"></i><a href="#">Tarjeta de Debito</a></li>
-                                        </ul>
-                                    </div>
-                		    	</div>
-                		    	<!-- End col 6 -->
-                		    </div>
-                		    <!-- End row -->
+                                </div>
+                                <!-- End col 6 -->
+                            </div>
+                            <!-- End row -->
                         </div>
                     </div>
                     <!-- - - - - - - - - - END SECTION - - - - - - - - - -->
-                    <h3 class=" pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                    <h3 class=" pi-uppercase pi-weight-700 pi-letter-spacing pi-color-blue pi-has-bg-blue pi-margin-bottom-15" style="color: blue !important;">
                         Súper Ofertas
                     </h3> 
                     <!-- - - - - - - - - - SECTION - - - - - - - - - -->
@@ -180,8 +180,9 @@
                         <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
                         Vota!
                         </h3>
-                        <div id="default" style="float: left; margin-right: 10px;"></div>
-                        <a href=""><i class="icon-print" style="font-size: 20px;"></i></a>
+                        <div class="default"></div>
+                    </div>
+                    <div class="pi-sidebar-block pi-padding-bottom-10">    
                         <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
                         Busqueda
                         </h3>

@@ -41,13 +41,7 @@
                     	            	<h3 class=""style="float: left;">
 	                	                	$1500.00
 	                	                </h3>
-	                	                <script>
-                                            $(function() {
-                                              $.fn.raty.defaults.path = 'assets/images';
-                                              $('#default').raty({ score: 4 });
-                                            });
-                                        </script> 
-                                        <div style="float: left; margin-left: 20px; margin-right: 10px;">(Vota!) <div id="default" style="float: right; margin-left: 5px;"></div></div> 
+                                        <div style="float: left; margin-left: 20px; margin-right: 10px;">(Vota!) <div class="default" style="float: right; margin-left: 5px;"></div></div> 
                                         <br><br>
                                         <p class="clearfix">
                                           Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación...                           

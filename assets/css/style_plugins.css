@@ -12267,6 +12267,40 @@ h6.pi-has-bg:after,
   height: 0.75em;
   margin: 0 -200% 0 0;
 }
+h1.pi-has-bg-blue,
+.h1.pi-has-bg-blue,
+h2.pi-has-bg-blue,
+.h2.pi-has-bg-blue,
+h3.pi-has-bg-blue,
+.h3.pi-has-bg-blue,
+h4.pi-has-bg-blue,
+.h4.pi-has-bg-blue,
+h5.pi-has-bg-blue,
+.h5.pi-has-bg-blue,
+h6.pi-has-bg-blue,
+.h6.pi-has-bg-blue {
+  overflow: hidden;
+}
+h1.pi-has-bg-blue:after,
+.h1.pi-has-bg-blue:after,
+h2.pi-has-bg-blue:after,
+.h2.pi-has-bg-blue:after,
+h3.pi-has-bg-blue:after,
+.h3.pi-has-bg-blue:after,
+h4.pi-has-bg-blue:after,
+.h4.pi-has-bg-blue:after,
+h5.pi-has-bg-blue:after,
+.h5.pi-has-bg-blue:after,
+h6.pi-has-bg-blue:after,
+.h6.pi-has-bg-blue:after {
+  position: relative;
+  left: 18px;
+  content: "";
+  display: inline-block;
+  width: 200%;
+  height: 0.75em;
+  margin: 0 -200% 0 0;
+}
 h1.pi-has-border,
 .h1.pi-has-border,
 h2.pi-has-border,
@@ -13090,6 +13124,20 @@ pre code {
 .pi-section-white h6.pi-has-bg:after,
 .pi-section-white .h6.pi-has-bg:after {
   background: url('../images/bg-heading.png');
+}
+.pi-section-white h1.pi-has-bg-blue:after,
+.pi-section-white .h1.pi-has-bg-blue:after,
+.pi-section-white h2.pi-has-bg-blue:after,
+.pi-section-white .h2.pi-has-bg-blue:after,
+.pi-section-white h3.pi-has-bg-blue:after,
+.pi-section-white .h3.pi-has-bg-blue:after,
+.pi-section-white h4.pi-has-bg-blue:after,
+.pi-section-white .h4.pi-has-bg-blue:after,
+.pi-section-white h5.pi-has-bg-blue:after,
+.pi-section-white .h5.pi-has-bg-blue:after,
+.pi-section-white h6.pi-has-bg-blue:after,
+.pi-section-white .h6.pi-has-bg-blue:after {
+  background: url('../images/bg-heading-blue.png');
 }
 .pi-section-white h1 a.pi-link-dark,
 .pi-section-white .h1 a.pi-link-dark,
@@ -16451,6 +16499,9 @@ margin-left: 40px;
 
 .pi-color-orange{
   color: orange !important;
+}
+.pi-color-blue{
+  color: blue !important;
 }
 .btn-blue{
 background: #515291;

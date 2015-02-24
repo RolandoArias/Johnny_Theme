@@ -53,6 +53,7 @@ module.exports = function(grunt) {
               'build/plugins/colorbox/jquery.colorbox-min.js',
               'build/plugins/jquery.easing.1.3.js',              
               'build/plugins/jquery.gmap.min.js',
+              'build/plugins/gmaps-master/gmaps.js',
               'build/js/jquery.sharrre.min.js'
           ],
           dest: 'assets/js/plugins.js'

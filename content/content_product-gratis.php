@@ -223,31 +223,6 @@
             <div class="pi-sidebar-wrapper pi-sidebar-wrapper-right pi-padding-10 pi-margin-top-20" style="background-color: rgb(0, 109, 204);">
                 <div class="pi-sidebar pi-padding-top-10">
 
-
-
-
-        <!-- Categories -->
-    <div class="pi-sidebar-block pi-padding-bottom-20">
-        <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
-        Busqueda
-        </h3>
-        <!-- form-contacto-->
-        <div class="pi-sidebar-block pi-padding-bottom-10">
-            <form class="pi-grouped-input pi-pi-search-form-wide">
-                <div class="pi-padding-bottom-10">
-                    <input type="text" class="form-control pi-input-wide" placeholder="¿Buscas Algo?" />
-                </div>
-                <div  class="pi-padding-bottom-10">
-                    <input type="text" class="form-control pi-input-wide" placeholder="¿Donde?" />
-                </div>
-                <div class="pi-padding-bottom-20">
-                    <button type="submit" class="btn pi-btn-base" style="border-color: black;">Buscar</button>
-                </div>           
-            </form>
-        </div>
-        <!-- End form-contacto-->
-    </div>
-    <!-- End categories -->
         <!-- Social -->
     <div class="pi-sidebar-block pi-padding-bottom-20 pi-padding-left-10">
         <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
