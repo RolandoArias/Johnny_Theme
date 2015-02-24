@@ -5,7 +5,7 @@
                 <div class="pi-titlebar pi-titlebar-breadcrumb-right pi-titlebar-small pi-no-padding pi-padding-right-10">
                     <div style="color: rgb(0, 109, 204);">
                         <h1 style="color: rgb(0, 109, 204); float:left; padding-right: 0px" class="pi-weight-600">Peluquería Beauty Hellums, C.A.</h1>
-                        <img src="assets/images/star-no.png" alt="" style="width: 30px;" tifle="Añadir a favoritos">
+                        <img src="assets/images/star-no.PNG" alt="" style="width: 30px;" tifle="Añadir a favoritos">
                         <p class="pi-no-margin ">La belleza es nuestra especialidad</p> 
                     </div>
                     <div class="pi-breadcrumb">
