@@ -2,17 +2,18 @@
 	<div class="pi-section pi-section-p pi-clearfix">
         <div class="pi-layout pi-layout-fluid-fixed">
                     <div class="pi-section-w pi-section-base pi-section-base-gradient">
-                        <div class="pi-section pi-titlebar pi-titlebar-breadcrumb-right pi-titlebar-small pi-no-padding">
-                            <div style="color: rgb(0, 109, 204);">
-                                <h1 style="color: rgb(0, 109, 204);" class="pi-weight-600">Peluquería Beauty Hellums, C.A.</h1>
-                                <p class="pi-no-margin ">La belleza es nuestra especialidad</p> 
-                            </div>
-                            <div class="pi-breadcrumb">
-                                <ul>
-                                    <li style="color: rgb(0, 109, 204);">Estado > Ciudad / RIf: X-##### / Subcategoria</li>
-                                </ul>
-                            </div>
-                        </div>
+                        <div class="pi-titlebar pi-titlebar-breadcrumb-right pi-titlebar-small pi-no-padding pi-padding-right-10">
+                    <div style="color: rgb(0, 109, 204);">
+                        <h1 style="color: rgb(0, 109, 204); float:left; padding-right: 0px" class="pi-weight-600">Peluquería Beauty Hellums, C.A.</h1>
+                        <img src="assets/images/star-no.PNG" alt="" style="width: 30px;" tifle="Añadir a favoritos">
+                        <p class="pi-no-margin ">La belleza es nuestra especialidad</p> 
+                    </div>
+                    <div class="pi-breadcrumb">
+                        <ul>
+                            <li style="color: rgb(0, 109, 204);">  Estado > Ciudad / RIf: X-##### / Subcategoria</li>
+                        </ul>
+                    </div>
+                </div>
                     </div>
 			<div class="pi-page-wrapper">
 				<div class="pi-page">

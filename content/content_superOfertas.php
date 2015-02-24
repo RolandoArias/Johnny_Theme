@@ -58,6 +58,15 @@
 			<div class="pi-sidebar-wrapper pi-sidebar-wrapper-right pi-padding-10" style="background-color: rgb(0, 109, 204);">
 			    <div class="pi-sidebar pi-padding-top-10">
 	                <div class="pi-sidebar-block pi-padding-bottom-20">
+	                	<div class="pi-sidebar-block pi-padding-bottom-20">
+
+	                	<div class="pi-gallery-item">
+	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
+	                			<a href="#">
+	                				<img style="height: 200px;" src="assets/images/gallery/google.jpg" alt=""/>
+	                			</a>
+	                		</div>
+	                	</div>
 	                	<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
 	                		Enlaces
 	                	</h3>
@@ -111,6 +120,28 @@
 	                			</a>
 	                		</div>
 	                	</div>
+	                	<!-- Select -->
+			            <div class="form-group">
+			            	<div class="pi-input-with-icon">
+			            		<div class="pi-input-icon"><i class="icon-calendar"></i></div>
+			            		<select class="form-control" id="exampleInputBudget-1">
+			            			<option>Todos</option>
+			            			<option>Enero</option>
+			            			<option>Febrero</option>
+			            			<option>Marzo</option>
+			            			<option>Abril</option>
+			            			<option>Mayo</option>
+			            			<option>Junio</option>
+			            			<option>Julio</option>
+			            			<option>Agosto</option>
+			            			<option>Septiembre</option>
+			            			<option>Octubre</option>
+			            			<option>Noviembre</option>
+			            			<option>Diciembre</option>
+			            		</select>
+			            	</div>
+			            </div>
+			            <!-- End select -->
 	                </div>
 	                <div class="pi-sidebar-block pi-padding-bottom-20">
 	                	
@@ -131,19 +162,7 @@
 	                			</a>
 	                		</div>
 	                	</div>
-	                </div>
-	                <div class="pi-sidebar-block pi-padding-bottom-20">
-	                	<h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
-	                	Google
-	                	</h3>
-	                	<div class="pi-gallery-item">
-	                		<div class="pi-img-w pi-img-round-corners pi-img-shadow-light">
-	                			<a href="#">
-	                				<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/google.jpg" alt=""/>
-	                			</a>
-	                		</div>
-	                	</div>
-	                </div>			
+	                </div>	
 				</div>
 			</div>
 		</div>

@@ -194,14 +194,10 @@
                                                 <h5 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-top-minus-5 pi-text-shadow">
                                                     <a href="#" class="pi-link-white">Nombre del Producto</a>
                                                 </h5>
-                                                <p class="pi-margin-top-minus-5 pi-no-margin">Ciudad/Estado </p>
-                                                <h5 class="pi-weight-700 pi-uppercasepi-margin-top-10 pi-letter-spacing pi-text-shadow">
+                                                <h3 class="pi-weight-700 pi-uppercasepi-margin-top-10 pi-letter-spacing pi-text-shadow">
                                                     $ 1500.00
                      
-                                                </h5>
-                                                <ul class="pi-caption-links ">
-                                                    <li><i class="icon-tag"></i><a href="#">APPLE</a>, <a href="#">Lapto</a></li>
-                                                </ul>
+                                                </h3>
                                                 <a href="product.php" class="btn pi-btn-small pi-btn-base pi-uppercase pi-weight-600 pi-letter-spacing pi-right pi-no-margin pi-margin-bottom-10">Ver Mas...</a>
                                             </div>
                                         </div>
