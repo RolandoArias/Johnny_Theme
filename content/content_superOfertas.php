@@ -5,7 +5,7 @@
 		<div class="pi-layout pi-layout-fluid-fixed">
 			<div class="pi-page-wrapper">
 				<div class="pi-page">
-					<h3 class=" pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+					<h3 class=" pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style="color: blue;">
                         Súper Ofertas
                     </h3> 
                     <!-- - - - - - - - - - SECTION - - - - - - - - - -->
@@ -19,10 +19,10 @@
                     	        </div>
                     	        <div class="pi-col-md-12 pi-no-padding">
                                     <div class="pi-col-md-4 pi-padding-10">
-                                        <a href="product-detalle.php">
-	                			        	<img style="height: 200px; border-radius: 10px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
+                                        <a href="product-detalle.php" class="pi-no-margin pi-no-padding pi-center">
+	                			        	<img class="pi-no-margin pi-no-padding pi-center" style="height: 200px; border-radius: 10px;" src="assets/images/gallery/bg_macbook.png" alt=""/>
 	                			        </a>
-	                			        <h3  class="pi-color-orange pi-uppercase pi-no-padding pi-center" style="font-size: 150%;">
+	                			        <h3  class="pi-color-orange pi-uppercase pi-no-margin pi-no-padding pi-text-center" style="font-size: 150%;">
 	                	            	   $1500.00
 	                	                </h3> 
                     	            </div>
@@ -37,7 +37,7 @@
                                         	<li  class="pi-color-orange"><i class="icon-right-open"></i> Categoría</li><br>
                                         	<li  class="pi-color-orange"><i class="icon-tag"></i> <a href=""  class="pi-color-orange">Tag-1</a>, <a href=""  class="pi-color-orange">Tag-2</a></li>
                                         </ul>
-                                        <a href="#"><button class="btn-blue pi-right pi-no-margin pi-padding-10">Mas Información<i class="icon-right-open"></i></button> </a> 
+                                        <a href="#" style="position: absolute; bottom: 18px; right: 20px;"><button class="btn-blue  pi-no-margin pi-padding-10" >Mas Información<i class="icon-right-open"></i></button> </a> 
                     	            </div>
                                 </div>
                     	    </div>

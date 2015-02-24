@@ -5,7 +5,7 @@
 		<div class="pi-layout pi-layout-fluid-fixed">
 			<div class="pi-page-wrapper">
 				<div class="pi-page">
-					<h3 class=" pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+					<h3 class=" pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style="color: blue;">
                         Directorio Comercial
                     </h3>
                     <!-- - - - - - - - - - SECTION - - - - - - - - - -->

@@ -48,7 +48,7 @@
                                 
                                     <div class="pi-icon-box-content">
                                     
-                                        <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                                        <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style=" color: blue;">
                                             Contacto
                                         </h3>
                 
@@ -78,7 +78,7 @@
                 				
                 					<div class="pi-icon-box-content">
                 					
-                                        <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                                        <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style=" color: blue;">
                                             Direccion
                                         </h3>                
                 						<p class="pi-margin-bottom-10">
@@ -118,7 +118,7 @@
                                 
                                     <div class="pi-icon-box-content">
                                     
-                                        <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
+                                        <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style=" color: blue;">
                                             Comercios relacionados con la busqueda
                                         </h3> 
                                         <div class="pi-row pi-liquid-col-xs-2 pi-liquid-col-sm-3 pi-gallery pi-gallery-small-margins pi-text-center isotope">

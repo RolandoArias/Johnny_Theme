@@ -13,7 +13,7 @@
 			
 		<div id="isotope" class="pi-row pi-padding-top-20 pi-liquid-col-xs-2 pi-liquid-col-sm-3 pi-gallery pi-gallery-small-margins pi-text-left isotope">
 			<!-- End portfolio item -->
-			<h3 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15" style="color: rgb(0, 109, 204);">
+			<h3 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style="color: rgb(0, 109, 204);">
 			    Super Ofertas Relevantes
 		    </h3>
 			<!-- Portfolio item -->
@@ -48,7 +48,7 @@
 		</div>
 		<div id="isotope" class="pi-row pi-liquid-col-xs-2 pi-liquid-col-sm-3 pi-gallery pi-gallery-small-margins pi-text-left isotope">
 			
-			<h3 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15" style="color: rgb(0, 109, 204);">
+			<h3 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style="color: rgb(0, 109, 204);">
 			    Comercios Relevantes
 		    </h3>
 			<!-- Portfolio item -->
@@ -76,7 +76,7 @@
 			</div>
 		</div>	
 		<div id="isotope" class="pi-row pi-padding-top-20 pi-liquid-col-xs-2 pi-liquid-col-sm-3 pi-gallery pi-gallery-small-margins pi-text-left isotope">
-			<h3 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15" style="color: rgb(0, 109, 204);">
+			<h3 class="pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style="color: rgb(0, 109, 204);">
 			    Enlaces de Interes
 		    </h3>
 			<div class="wrap">
