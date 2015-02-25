@@ -4,7 +4,7 @@
 
 		<div class="pi-layout pi-layout-fluid-fixed">
 			<div class="pi-page-wrapper">
-				<div class="pi-page">
+				<div class="pi-page bg-color-text">
 					<h3 class=" pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg pi-margin-bottom-15">
                         Planes Direxionate
                     </h3>
@@ -17,20 +17,21 @@
 		            		
 		            			<!-- Table row -->
 		            			<tr class=" pi-uppercase pi-weight-700">
-		            				<th style="width: 500px;">
-		            				Contenido
+		            				<th class="pi-no-padding" style="width: 500px; vertical-align: bottom;">
+                                    <img style="width: 495px; height: 41px;" src="assets/images/planes/cont.png" alt="">
+		            				<h4 class="pi-weight-600" style="position: absolute; color: black; z-index: 29; top: 396px; left: 206px;">Contenido</h4>
 		            				</th>
-		            				<th>
-		            					Gratis
+		            				<th class="pi-no-padding" style="vertical-align: bottom;">
+		            					<img style="position: relative; top: -3px;" src="assets/images/planes/gratis.png" alt="">
 		            				</th>
-		            				<th>
-		            					Bronce
+		            				<th class="pi-no-padding" style="vertical-align: bottom;">
+		            					<img src="assets/images/planes/bronce.png" alt="">
 		            				</th>
-		            				<th>
-		            					Plata
+		            				<th class="pi-no-padding" style="vertical-align: bottom;">
+		            					<img src="assets/images/planes/plata.png" alt="">
 		            				</th>
-		            				<th>
-		            					Oro
+		            				<th class="pi-no-padding" style="vertical-align: bottom;">
+		            					<img src="assets/images/planes/oro.png" alt="">
 		            				</th>
 		            			</tr>
 		            			<!-- End table row -->
