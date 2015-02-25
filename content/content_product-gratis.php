@@ -36,6 +36,9 @@
                                     <img src="assets/images/gallery/2.jpg" alt="" style="float:left; width: 95%;">
                                 </a>
                             </div>
+                            <h3 class="h6 pi-uppercase pi-weight-700 pi-letter-spacing pi-has-bg-blue pi-margin-bottom-15" style=" color: blue;">
+                              Sobre Nosotros
+                            </h3>
                             <p>
                               Somos los mejores en Servicios de peluquería, corte y secado  para mujeres y caballeros tambien. Realizamos extensiones de cabello, manicure y pedicure, mantenimiento, sistema en gel, esculpido, acrigel y pincelado. Tambien contamos con servicio de Barbería. Somos Distribuidores exclusivos de productos Lissi Natural y realizamos su aplicación.                            
                             </p>

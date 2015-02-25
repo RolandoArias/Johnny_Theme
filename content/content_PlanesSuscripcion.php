@@ -22,7 +22,7 @@
 		            				<h4 class="pi-weight-600" style="position: absolute; color: black; z-index: 29; top: 396px; left: 206px;">Contenido</h4>
 		            				</th>
 		            				<th class="pi-no-padding" style="vertical-align: bottom;">
-		            					<img style="position: relative; top: -3px;" src="assets/images/planes/gratis.png" alt="">
+		            					<img  src="assets/images/planes/gratis.png" alt="">
 		            				</th>
 		            				<th class="pi-no-padding" style="vertical-align: bottom;">
 		            					<img src="assets/images/planes/bronce.png" alt="">
