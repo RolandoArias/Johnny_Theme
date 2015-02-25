@@ -44,7 +44,7 @@
 		            		
 		            			<!-- Table row -->
 		            			<tr>
-		            				<td>
+		            				<td style="background-color: rgba(245, 245, 245, 0.26); color: white;">
 		            					<i class="icon-play pi-tooltip pi-tooltip-base" data-placement="right" title="" data-original-title="Eiusmod tempor incididunt"></i>
 		            				    Cupones especiales de descuento
 		            				</td>
@@ -65,7 +65,7 @@
 		            			
 		            			<!-- Table row -->
 		            			<tr>
-		            				<td>
+		            				<td style="background-color: rgba(245, 245, 245, 0.26); color: white;">
 		            					<i class="icon-play pi-tooltip pi-tooltip-base" data-placement="right" title="" data-original-title="Cupidatat non proident"></i>
 		            				    precencia en la lista de <b>Commercios Relevantes</b>
 		            				</td>
@@ -86,7 +86,7 @@
 		            			
 		            			<!-- Table row -->
 		            			<tr>
-		            				<td>
+		            				<td style="background-color: rgba(245, 245, 245, 0.26); color: white;">
 		            					<i class="icon-play pi-tooltip" data-placement="right" title="" data-original-title="Nam libero tempore, cum soluta nobis est eligendi"></i>
 		            				    precencia en la lista de <b>Super Ofertas Relavantes</b>(Pagina principal)
 		            				</td>
@@ -107,7 +107,7 @@
 		            			
 		            			<!-- Table row -->
 		            			<tr>
-		            				<td>
+		            				<td style="background-color: rgba(245, 245, 245, 0.26); color: white;">
 		            					<i class="icon-play pi-tooltip" data-placement="right" title="" data-original-title="Ratione voluptatem sequi"></i>
 		            				    Nivel de relevacion en los resultados de busqueda de <b>Comercios</b> y/o <b>Super Oferta</b>(min 0 - max 4)
 		            				</td>
@@ -128,7 +128,7 @@
 
 		            			<!-- Table row -->
 		            			<tr>
-		            				<td>
+		            				<td style="background-color: rgba(245, 245, 245, 0.26); color: white;">
 		            					<i class="icon-play pi-tooltip" data-placement="right" title="" data-original-title="Ratione voluptatem sequi"></i>
 		            				    Nivel de relevacion en los listados de <b>Comercios Destacados</b> y/o <b>Super Ofertas Destacadas</b>(min 0 - max 4)
 		            				</td>
@@ -149,7 +149,7 @@
 		            			
 		            			<!-- Table row -->
 		            			<tr>
-		            				<td>
+		            				<td style="background-color: rgba(245, 245, 245, 0.26); color: white;">
 		            					<i class="icon-play pi-tooltip" data-placement="right" title="" data-original-title="Magnam aliquam"></i>
 		            				    Maximo de <b>Super Ofertas</b> permitidas para publicar
 		            				</td>
@@ -169,7 +169,7 @@
 		            			<!-- End table row -->
 		            			<!-- Table row -->
 		            			<tr>
-		            				<td>
+		            				<td style="background-color: rgba(245, 245, 245, 0.26); color: white;">
 		            					<i class="icon-play pi-tooltip" data-placement="right" title="" data-original-title="Magnam aliquam"></i>
 		            				    Modulo exclucivo para promocionar tus productos o servicios
 		            				</td>
@@ -189,7 +189,7 @@
 		            			<!-- End table row -->
 		            			<!-- Table row -->
 		            			<tr>
-		            				<td>
+		            				<td style="background-color: rgba(245, 245, 245, 0.26); color: white;">
 		            					<i class="icon-play pi-tooltip" data-placement="right" title="" data-original-title="Magnam aliquam"></i>
 		            				    Panel Administrativo
 		            				</td>
@@ -209,7 +209,7 @@
 		            			<!-- End table row -->
 		            			<!-- Table row -->
 		            			<tr>
-		            				<td>
+		            				<td style="background-color: rgba(245, 245, 245, 0.26); color: white;">
 		            					<i class="icon-play pi-tooltip" data-placement="right" title="" data-original-title="Magnam aliquam"></i>
 		            				    Duracion
 		            				</td>
@@ -229,7 +229,7 @@
 		            			<!-- End table row -->
 		            			<!-- Table row -->
 		            			<tr>
-		            				<td>
+		            				<td style="background-color: rgba(245, 245, 245, 0.26); color: white;">
 		            					<i class="icon-play pi-tooltip" data-placement="right" title="" data-original-title="Magnam aliquam"></i>
 		            				    Tipo de Anuncio
 		            				</td>
@@ -249,7 +249,7 @@
 		            			<!-- End table row -->
 		            			<!-- Table row -->
 		            			<tr>
-		            				<td>
+		            				<td style="background-color: rgba(245, 245, 245, 0.26); color: white;">
 		            					<i class="icon-play
 		            					 pi-tooltip" data-placement="right" title="" data-original-title="Magnam aliquam"></i>
 		            				    Precio
